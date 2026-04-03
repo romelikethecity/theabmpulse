@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 32" width="260" height="32">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@700&amp;display=swap');
+    </style>
+  </defs>
+  <text x="0" y="25" font-family="Bricolage Grotesque, sans-serif" font-weight="700" font-size="24" letter-spacing="-0.5" fill="#111111">The ABM</text>
+  <text x="146" y="25" font-family="Bricolage Grotesque, sans-serif" font-weight="700" font-size="24" letter-spacing="-0.5" fill="#EA580C">Pulse</text>
+</svg>

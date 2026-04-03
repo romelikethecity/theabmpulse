@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 48" width="320" height="48">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@700&amp;display=swap');
+    </style>
+  </defs>
+  <!-- Icon -->
+  <rect x="0" y="6" width="36" height="36" rx="9" fill="#EA580C"/>
+  <circle cx="18" cy="24" r="7.5" stroke="white" stroke-width="1.5" fill="none" opacity="0.35"/>
+  <circle cx="18" cy="24" r="4.5" stroke="white" stroke-width="1.5" fill="none" opacity="0.65"/>
+  <circle cx="18" cy="24" r="2" fill="white"/>
+  <!-- Wordmark (on light bg) -->
+  <text x="46" y="31" font-family="Bricolage Grotesque, sans-serif" font-weight="700" font-size="22" letter-spacing="-0.5" fill="#111111">The ABM</text>
+  <text x="192" y="31" font-family="Bricolage Grotesque, sans-serif" font-weight="700" font-size="22" letter-spacing="-0.5" fill="#EA580C">Pulse</text>
+</svg>
