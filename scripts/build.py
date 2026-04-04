@@ -17,6 +17,8 @@ from templates import (get_page_wrapper, write_page, get_homepage_schema,
                        get_breadcrumb_schema, get_faq_schema,
                        get_article_schema,
                        breadcrumb_html, newsletter_cta_html, faq_html, ALL_PAGES)
+from salary_pages import build_all_salary_pages
+from tool_pages import build_all_tool_pages
 
 # OG image generation state
 OG_PAGES = []
@@ -390,6 +392,12 @@ def main():
     build_privacy_page()
     build_terms_page()
     build_404_page()
+
+    # Salary section (~25 pages)
+    build_all_salary_pages(PROJECT_DIR)
+
+    # Tool reviews section (~40 pages)
+    build_all_tool_pages(PROJECT_DIR)
 
     print("\n  Building meta files...")
     build_sitemap()

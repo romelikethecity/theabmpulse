@@ -1,1 +1,101 @@
-{}
+{
+  "date": "April 04, 2026",
+  "total_jobs": 342,
+  "tools": {
+    "Rag": 196,
+    "Rust": 126,
+    "Salesforce": 79,
+    "Aws": 67,
+    "Hubspot": 41,
+    "Tableau": 32,
+    "Marketo": 31,
+    "6Sense": 21,
+    "Demandbase": 21,
+    "Salesforce Marketing Cloud": 9,
+    "Optimizely": 9,
+    "Hubspot Marketing": 7,
+    "Clay": 6,
+    "Highspot": 4,
+    "Zoominfo": 4,
+    "Dynamics 365": 4,
+    "Linkedin Marketing": 3,
+    "Power Bi": 3,
+    "Salesloft": 3,
+    "Sendoso": 3,
+    "Mailchimp": 3,
+    "Azure": 2,
+    "Gcp": 2,
+    "Catalyst": 2,
+    "Looker": 2,
+    "Reachdesk": 2,
+    "Apollo": 2,
+    "Openai": 2,
+    "Reveal": 2,
+    "Instantly": 2,
+    "Eloqua": 2,
+    "Influ2": 1,
+    "Terminus": 1,
+    "Domo": 1,
+    "Workato": 1,
+    "Workato Ipaas": 1,
+    "Common Room": 1,
+    "Mutiny": 1,
+    "Mutiny Web": 1,
+    "Javascript": 1,
+    "Langchain": 1,
+    "Braze": 1,
+    "Klaviyo": 1,
+    "Cohere": 1,
+    "Seismic": 1,
+    "G2": 1
+  },
+  "team_structure": {
+    "Build Team": 158,
+    "Reports Cro": 28,
+    "First Hire": 19,
+    "Reports Vp": 6,
+    "Reports Ceo": 2
+  },
+  "hiring_signals": {
+    "Growth Hire": 215,
+    "Turnaround": 72,
+    "Immediate": 17
+  },
+  "segment": {
+    "Enterprise": 99,
+    "Fortune 500": 18,
+    "Smb": 8,
+    "Mid Market": 1
+  },
+  "geo_focus": {
+    "Global": 137,
+    "North America": 127,
+    "Emea": 19,
+    "Apac": 14,
+    "Latam": 3
+  },
+  "comp_signals": {
+    "Equity": 218,
+    "Ote Mentioned": 23,
+    "Uncapped": 1
+  },
+  "motion": {
+    "Channel": 124,
+    "Abm": 98,
+    "Direct": 10,
+    "Inside": 2,
+    "Outbound": 1
+  },
+  "sales_cycle": {
+    "Long": 11,
+    "Short": 5
+  },
+  "deal_size": {
+    "Seven Figure": 14,
+    "Enterprise Deal": 6,
+    "Transactional": 6
+  },
+  "methodology": {
+    "Miller Heiman": 1
+  }
+}

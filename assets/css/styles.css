@@ -762,3 +762,75 @@ body.page-home .main-content {
         grid-template-columns: 1fr;
     }
 }
+
+
+/* ---- Salary Calculator ---- */
+.calculator-gate {
+    background: var(--abm-bg-surface);
+    border: 1px solid var(--abm-border);
+    border-radius: var(--abm-radius-lg);
+    padding: var(--abm-space-12) var(--abm-space-8);
+    text-align: center;
+    margin: var(--abm-space-8) 0;
+}
+
+.calculator-gate-inner {
+    max-width: 480px;
+    margin: 0 auto;
+}
+
+.calculator-gate h2 {
+    margin-bottom: var(--abm-space-3);
+}
+
+.calculator-gate p {
+    color: var(--abm-text-secondary);
+    margin-bottom: var(--abm-space-6);
+}
+
+.calculator-tool {
+    background: var(--abm-bg-surface);
+    border: 1px solid var(--abm-border);
+    border-radius: var(--abm-radius-lg);
+    padding: var(--abm-space-8);
+    margin: var(--abm-space-8) 0;
+}
+
+.calculator-form-group {
+    margin-bottom: var(--abm-space-4);
+}
+
+.calculator-form-group label {
+    display: block;
+    margin-bottom: var(--abm-space-2);
+    font-size: var(--abm-text-sm);
+    color: var(--abm-text-primary);
+}
+
+.calculator-select {
+    width: 100%;
+    padding: var(--abm-space-3) var(--abm-space-4);
+    border-radius: var(--abm-radius-md);
+    border: 1px solid var(--abm-border-strong);
+    background: var(--abm-bg-primary);
+    color: var(--abm-text-primary);
+    font-family: var(--abm-font-body);
+    font-size: var(--abm-text-base);
+    appearance: none;
+    -webkit-appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath d='M3 5l3 3 3-3' stroke='%239CA3AF' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right var(--abm-space-4) center;
+    cursor: pointer;
+}
+
+.calculator-select:focus {
+    outline: none;
+    border-color: var(--abm-accent);
+}
+
+.calculator-result {
+    margin-top: var(--abm-space-8);
+    padding-top: var(--abm-space-8);
+    border-top: 1px solid var(--abm-border-subtle);
+}
