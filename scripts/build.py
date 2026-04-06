@@ -19,6 +19,7 @@ from templates import (get_page_wrapper, write_page, get_homepage_schema,
                        breadcrumb_html, newsletter_cta_html, faq_html, ALL_PAGES)
 from salary_pages import build_all_salary_pages
 from tool_pages import build_all_tool_pages
+from glossary_pages import build_all_glossary_pages
 
 # OG image generation state
 OG_PAGES = []
@@ -398,6 +399,9 @@ def main():
 
     # Tool reviews section (~40 pages)
     build_all_tool_pages(PROJECT_DIR)
+
+    # Glossary section (45 terms + index)
+    build_all_glossary_pages(PROJECT_DIR)
 
     print("\n  Building meta files...")
     build_sitemap()
