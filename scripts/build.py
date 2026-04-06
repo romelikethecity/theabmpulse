@@ -796,6 +796,8 @@ def main():
 
     build_all_report_pages(PROJECT_DIR)
 
+    build_conferences_index()
+
     print("\n  Building meta files...")
     build_sitemap()
     build_robots()
