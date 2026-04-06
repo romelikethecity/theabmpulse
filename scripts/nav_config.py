@@ -14,7 +14,7 @@ CTA_LABEL = "Get the Weekly Pulse"
 
 SIGNUP_WORKER_URL = "https://abm-newsletter-signup.rome-workers.workers.dev/subscribe"
 
-GA_MEASUREMENT_ID = ""
+GA_MEASUREMENT_ID = "G-22S8BL6YFY"
 GOOGLE_SITE_VERIFICATION = ""
 GOOGLE_SITE_VERIFICATION_META = ""
 
