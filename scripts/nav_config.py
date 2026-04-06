@@ -49,6 +49,7 @@ NAV_ITEMS = [
         "children": [
             {"href": "/careers/", "label": "Career Guides"},
             {"href": "/careers/how-to-become-abm-strategist/", "label": "How to Break In"},
+            {"href": "/companies/", "label": "Companies Hiring"},
         ],
     },
     {"href": "/glossary/", "label": "Glossary"},

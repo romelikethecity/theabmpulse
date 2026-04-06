@@ -1,0 +1,110 @@
+[
+  {
+    "name": "6sense Breakthrough",
+    "organizer": "6sense",
+    "typical_attendees": 2000,
+    "location": "Las Vegas, NV",
+    "website_url": "https://6sense.com/breakthrough/",
+    "relevance_tags": ["ABM", "intent data", "predictive analytics", "pipeline"],
+    "description": "6sense's annual conference for ABM and revenue teams. Covers intent-driven ABM, predictive analytics, pipeline acceleration, and the 6sense platform ecosystem."
+  },
+  {
+    "name": "Demandbase ABM Innovation Summit",
+    "organizer": "Demandbase",
+    "typical_attendees": 1500,
+    "location": "San Francisco, CA",
+    "website_url": "https://www.demandbase.com/",
+    "relevance_tags": ["ABM", "account intelligence", "advertising", "personalization"],
+    "description": "Demandbase's flagship ABM event. Covers account intelligence, ABM advertising, website personalization, and building one-to-few and one-to-one ABM programs."
+  },
+  {
+    "name": "B2B Marketing Exchange",
+    "organizer": "Demand Gen Report",
+    "typical_attendees": 1500,
+    "location": "Scottsdale, AZ",
+    "website_url": "https://b2bmarketing.exchange/",
+    "relevance_tags": ["B2B marketing", "ABM", "demand gen", "pipeline"],
+    "description": "Strong ABM track covering account selection, orchestration, measurement, and the intersection of ABM with demand generation strategy."
+  },
+  {
+    "name": "Forrester B2B Summit",
+    "organizer": "Forrester",
+    "typical_attendees": 3000,
+    "location": "Austin, TX",
+    "website_url": "https://www.forrester.com/b2b-summit-north-america/",
+    "relevance_tags": ["ABM", "B2B strategy", "buyer insights", "revenue"],
+    "description": "Forrester's premier B2B event with extensive ABM content. Research-driven sessions on ABM maturity models, buying group strategy, and revenue impact measurement."
+  },
+  {
+    "name": "ITSMA Marketing Vision",
+    "organizer": "ITSMA (now part of Momentum)",
+    "typical_attendees": 500,
+    "location": "Various US Cities",
+    "website_url": "https://www.momentumitsma.com/",
+    "relevance_tags": ["ABM", "enterprise marketing", "one-to-one", "strategic accounts"],
+    "description": "Focused on enterprise and strategic ABM. Covers one-to-one ABM for large accounts, executive engagement, and long-cycle B2B marketing strategies."
+  },
+  {
+    "name": "ABM Leadership Alliance Summit",
+    "organizer": "ABM Leadership Alliance / ITSMA",
+    "typical_attendees": 400,
+    "location": "Virtual + In-Person",
+    "website_url": "https://www.momentumitsma.com/",
+    "relevance_tags": ["ABM leadership", "strategy", "measurement", "organizational design"],
+    "description": "Exclusive summit for ABM leaders. Covers ABM program design, team structure, measurement frameworks, and cross-functional alignment between sales and marketing."
+  },
+  {
+    "name": "Pipeline Summit",
+    "organizer": "Pipeline Summit",
+    "typical_attendees": 1000,
+    "location": "Virtual",
+    "website_url": "https://pipelinesummit.com/",
+    "relevance_tags": ["pipeline", "ABM", "demand gen", "revenue"],
+    "description": "Covers pipeline generation with strong ABM content. Sessions on account-based pipeline strategy, multi-channel orchestration, and ABM-driven revenue acceleration."
+  },
+  {
+    "name": "Adobe Summit",
+    "organizer": "Adobe",
+    "typical_attendees": 12000,
+    "location": "Las Vegas, NV",
+    "website_url": "https://summit.adobe.com/",
+    "relevance_tags": ["Marketo", "personalization", "analytics", "ABM automation"],
+    "description": "Adobe's flagship conference with ABM-relevant tracks on Marketo Engage, personalization at scale, and advanced segmentation for account-based programs."
+  },
+  {
+    "name": "Dreamforce",
+    "organizer": "Salesforce",
+    "typical_attendees": 40000,
+    "location": "San Francisco, CA",
+    "website_url": "https://www.salesforce.com/dreamforce/",
+    "relevance_tags": ["CRM", "ABM integration", "sales alignment", "data"],
+    "description": "Salesforce's massive conference with ABM integration sessions. Covers CRM-based account targeting, sales-marketing alignment, and data-driven account strategies."
+  },
+  {
+    "name": "MarketingProfs B2B Forum",
+    "organizer": "MarketingProfs",
+    "typical_attendees": 1500,
+    "location": "Boston, MA",
+    "website_url": "https://www.marketingprofs.com/events/b2b-forum/",
+    "relevance_tags": ["B2B marketing", "ABM", "content", "strategy"],
+    "description": "Practical B2B marketing conference with growing ABM content. Covers account-based content strategy, personalization tactics, and ABM measurement."
+  },
+  {
+    "name": "Terminus Flip My Funnel",
+    "organizer": "Terminus (now part of DemandScience)",
+    "typical_attendees": 1000,
+    "location": "Various US Cities",
+    "website_url": "https://terminus.com/",
+    "relevance_tags": ["ABM", "flipped funnel", "multi-channel", "advertising"],
+    "description": "Built around the flipped funnel philosophy. Covers account-based advertising, multi-channel ABM orchestration, and the evolution of ABM beyond traditional demand gen."
+  },
+  {
+    "name": "FlipMyFunnel",
+    "organizer": "Sangram Vajre",
+    "typical_attendees": 600,
+    "location": "Various US Cities",
+    "website_url": "https://flipmyfunnel.com/",
+    "relevance_tags": ["ABM", "community", "go-to-market", "alignment"],
+    "description": "Community-driven ABM movement and conference. Covers ABM philosophy, go-to-market alignment, and building ABM programs from the ground up. Strong networking focus."
+  }
+]
