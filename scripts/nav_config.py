@@ -12,7 +12,7 @@ CSS_VERSION = "1"
 CTA_HREF = "/newsletter/"
 CTA_LABEL = "Get the Weekly Pulse"
 
-SIGNUP_WORKER_URL = "https://abm-newsletter-signup.rome-workers.workers.dev/subscribe"
+SIGNUP_WORKER_URL = "https://newsletter-subscribe.rome-workers.workers.dev/subscribe"
 
 GA_MEASUREMENT_ID = "G-22S8BL6YFY"
 GOOGLE_SITE_VERIFICATION = ""
