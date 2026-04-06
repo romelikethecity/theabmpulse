@@ -53,13 +53,11 @@ NAV_ITEMS = [
     },
     {"href": "/glossary/", "label": "Glossary"},
     {
-        "href": "/blog/",
+        "href": "/insights/",
         "label": "Resources",
         "children": [
-            {"href": "/blog/", "label": "Blog"},
             {"href": "/insights/", "label": "Insights"},
             {"href": "/comparisons/", "label": "Comparisons"},
-            {"href": "/jobs/", "label": "Job Board"},
         ],
     },
 ]
@@ -84,9 +82,8 @@ FOOTER_COLUMNS = {
     "Resources": [
         {"href": "/careers/", "label": "Career Guides"},
         {"href": "/glossary/", "label": "Glossary"},
-        {"href": "/jobs/", "label": "Job Board"},
-        {"href": "/blog/", "label": "Blog"},
         {"href": "/insights/", "label": "Insights"},
+        {"href": "/comparisons/", "label": "Comparisons"},
         {"href": "/newsletter/", "label": "Newsletter"},
         {"href": "/about/", "label": "About"},
     ],
