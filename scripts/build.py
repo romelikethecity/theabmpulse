@@ -743,10 +743,153 @@ def build_sitemap():
 
 
 def build_robots():
-    content = f"User-agent: *\nAllow: /\n\nSitemap: {SITE_URL}/sitemap.xml\n"
+    content = f"""User-agent: *
+Allow: /
+
+# AI/LLM crawlers - explicitly allowed for AI search citations
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+Sitemap: {SITE_URL}/sitemap.xml
+"""
     with open(os.path.join(OUTPUT_DIR, "robots.txt"), "w", encoding="utf-8") as f:
         f.write(content)
     print(f"  Built: robots.txt")
+
+
+def build_llms_txt():
+    content = """# The ABM Pulse
+
+> Career intelligence for account-based marketing professionals. Salary benchmarks, tool reviews, company hiring profiles, and career guides for ABM strategists, managers, and directors. Vendor-neutral and data-driven.
+
+The ABM Pulse tracks ABM salaries across seniority levels and locations, reviews 20+ ABM tools (platforms, intent data providers, personalization, direct mail, analytics), publishes head-to-head comparisons, and profiles companies actively hiring ABM professionals. The site also covers ABM conferences, glossary terms, and career advancement guides.
+
+## Core Pages
+
+- [Homepage](https://theabmpulse.com/): ABM salary and career intelligence
+- [Salary Index](https://theabmpulse.com/salary/): ABM salary data and benchmarks
+- [Tools Index](https://theabmpulse.com/tools/): ABM tool reviews and comparisons
+- [Companies Hiring](https://theabmpulse.com/companies/): Companies with active ABM roles
+- [Career Guides](https://theabmpulse.com/careers/): ABM career development resources
+- [Blog](https://theabmpulse.com/blog/): ABM industry analysis and insights
+- [About](https://theabmpulse.com/about/): About The ABM Pulse
+
+## Salary Data
+
+- [Salary by Seniority](https://theabmpulse.com/salary/by-seniority/): ABM pay by experience level
+- [Salary by Location](https://theabmpulse.com/salary/by-location/): ABM pay by city and region
+- [Remote vs Onsite](https://theabmpulse.com/salary/remote-vs-onsite/): Remote ABM salary comparison
+- [Salary Calculator](https://theabmpulse.com/salary/calculator/): Estimate your ABM market rate
+- [Salary Methodology](https://theabmpulse.com/salary/methodology/): How we source salary data
+- [ABM vs Demand Gen Manager](https://theabmpulse.com/salary/vs-demand-gen-manager/): Salary comparison
+- [ABM vs Marketing Ops](https://theabmpulse.com/salary/vs-marketing-ops/): Salary comparison
+- [ABM vs Campaign Manager](https://theabmpulse.com/salary/vs-campaign-manager/): Salary comparison
+- [ABM vs Field Marketing](https://theabmpulse.com/salary/vs-field-marketing/): Salary comparison
+- [ABM vs Growth Marketer](https://theabmpulse.com/salary/vs-growth-marketer/): Salary comparison
+
+## Tool Reviews
+
+- [6sense Review](https://theabmpulse.com/tools/6sense-review/): ABM platform review
+- [Demandbase Review](https://theabmpulse.com/tools/demandbase-review/): ABM platform review
+- [Terminus Review](https://theabmpulse.com/tools/terminus-review/): ABM platform review
+- [RollWorks Review](https://theabmpulse.com/tools/rollworks-review/): ABM platform review
+- [Triblio Review](https://theabmpulse.com/tools/triblio-review/): ABM platform review
+- [Madison Logic Review](https://theabmpulse.com/tools/madison-logic-review/): ABM platform review
+- [Bombora Review](https://theabmpulse.com/tools/bombora-review/): Intent data provider review
+- [G2 Intent Review](https://theabmpulse.com/tools/g2-intent-review/): Intent data review
+- [ZoomInfo Intent Review](https://theabmpulse.com/tools/zoominfo-intent-review/): Intent data review
+- [TrustRadius Intent Review](https://theabmpulse.com/tools/trustradius-intent-review/): Intent data review
+- [Mutiny Review](https://theabmpulse.com/tools/mutiny-review/): Personalization platform review
+- [Intellimize Review](https://theabmpulse.com/tools/intellimize-review/): Personalization review
+- [Folloze Review](https://theabmpulse.com/tools/folloze-review/): Content experience review
+- [PathFactory Review](https://theabmpulse.com/tools/pathfactory-review/): Content experience review
+- [Sendoso Review](https://theabmpulse.com/tools/sendoso-review/): Direct mail platform review
+- [Reachdesk Review](https://theabmpulse.com/tools/reachdesk-review/): Direct mail review
+- [Alyce Review](https://theabmpulse.com/tools/alyce-review/): Gifting platform review
+- [PFL Review](https://theabmpulse.com/tools/pfl-review/): Direct mail review
+- [HubSpot Review](https://theabmpulse.com/tools/hubspot-review/): Marketing automation for ABM
+- [Marketo Review](https://theabmpulse.com/tools/marketo-review/): Marketing automation review
+- [Pardot Review](https://theabmpulse.com/tools/pardot-review/): Salesforce marketing cloud review
+
+## Tool Comparisons
+
+- [6sense vs Demandbase](https://theabmpulse.com/tools/compare/6sense-vs-demandbase/): ABM platform comparison
+- [Terminus vs RollWorks](https://theabmpulse.com/tools/compare/terminus-vs-rollworks/): Mid-market ABM comparison
+- [Bombora vs G2 Intent](https://theabmpulse.com/tools/compare/bombora-vs-g2-intent/): Intent data comparison
+- [Sendoso vs Reachdesk](https://theabmpulse.com/tools/compare/sendoso-vs-reachdesk/): Direct mail comparison
+- [HubSpot vs Marketo](https://theabmpulse.com/tools/compare/hubspot-vs-marketo/): Marketing automation comparison
+- [Mutiny vs Intellimize](https://theabmpulse.com/tools/compare/mutiny-vs-intellimize/): Personalization comparison
+
+## Best Of Lists
+
+- [Best ABM Platforms](https://theabmpulse.com/tools/best-abm-platforms/): Platform rankings
+- [Best Intent Data Providers](https://theabmpulse.com/tools/best-intent-data-providers/): Intent data rankings
+- [Best Direct Mail for ABM](https://theabmpulse.com/tools/best-direct-mail-abm/): Direct mail rankings
+- [Best Personalization Tools](https://theabmpulse.com/tools/best-personalization-tools/): Personalization rankings
+
+## Tool Categories
+
+- [ABM Platforms](https://theabmpulse.com/tools/category/abm-platforms/): Full ABM platform category
+- [Intent Data Providers](https://theabmpulse.com/tools/category/intent-data/): Intent data category
+- [Personalization Tools](https://theabmpulse.com/tools/category/personalization/): Website personalization
+- [Direct Mail Platforms](https://theabmpulse.com/tools/category/direct-mail/): Corporate gifting and mail
+- [Marketing Automation](https://theabmpulse.com/tools/category/marketing-automation/): MAP tools for ABM
+- [Analytics](https://theabmpulse.com/tools/category/analytics/): ABM analytics and reporting
+
+## Career Resources
+
+- [How to Become an ABM Strategist](https://theabmpulse.com/careers/how-to-become-abm-strategist/): Career guide
+- [ABM Conferences](https://theabmpulse.com/conferences/): ABM events and conferences
+- [Best ABM Resources](https://theabmpulse.com/best-abm-resources/): Books, podcasts, communities
+- [ABM Glossary](https://theabmpulse.com/glossary/): ABM terminology defined
+
+## Reports
+
+- [ABM Salary Report](https://theabmpulse.com/reports/salary-report/): Annual salary benchmarks
+- [ABM Tool Stack Report](https://theabmpulse.com/reports/tool-stack-report/): Tool adoption data
+"""
+    with open(os.path.join(OUTPUT_DIR, "llms.txt"), "w", encoding="utf-8") as f:
+        f.write(content)
+    print(f"  Built: llms.txt")
 
 
 # ---------------------------------------------------------------------------
@@ -801,6 +944,7 @@ def main():
     print("\n  Building meta files...")
     build_sitemap()
     build_robots()
+    build_llms_txt()
 
     with open(os.path.join(OUTPUT_DIR, "CNAME"), "w", encoding="utf-8") as f:
         f.write("theabmpulse.com\n")
