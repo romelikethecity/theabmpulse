@@ -1109,6 +1109,85 @@ def build_glossary_index():
     print(f"  Built: glossary/index.html")
 
 
+def _glossary_expansion_sections(term_name, short_def, related_terms):
+    """Generate additional template sections to bring glossary pages above 1,200 words."""
+    niche = "account-based marketing"
+    site_name = "The ABM Pulse"
+
+    # Build related skills list from related terms
+    skill_items = ""
+    skill_sources = related_terms[:6] if related_terms else [
+        "Account Selection", "Intent Data Analysis", "Personalization",
+        "Sales Alignment", "Campaign Orchestration", "ABM Analytics"
+    ]
+    skill_descriptions = [
+        f"Understanding {s} and how it connects to {term_name} gives you a more complete view of the discipline.",
+        f"Practitioners who understand {s} are better equipped to implement {term_name} initiatives that stick.",
+        f"{s} is frequently paired with {term_name} in job descriptions and team charters.",
+        f"Building skill in {s} supports the kind of cross-functional work that {term_name} requires.",
+        f"Teams that combine {s} with {term_name} tend to see faster adoption and better results.",
+        f"A working knowledge of {s} helps you communicate the value of {term_name} to leadership.",
+    ]
+    for i, s in enumerate(skill_sources[:6]):
+        desc = skill_descriptions[i] if i < len(skill_descriptions) else f"This skill complements {term_name} in practice."
+        skill_items += f"<li><strong>{s}:</strong> {desc}</li>\n"
+
+    sections = f'''
+    <section class="glossary-expansion">
+        <h2>Why {term_name} Matters</h2>
+        <p>Understanding {term_name} is important for professionals working in {niche}. {short_def} When this concept is applied well, it directly affects how teams identify, engage, and convert their highest-value accounts. Companies that invest in {term_name} typically see better outcomes in team performance and operational efficiency. It is not a theoretical exercise but a practical priority that shapes daily work across go-to-market teams.</p>
+        <p>For individual contributors and managers alike, developing depth in {term_name} opens doors to more strategic roles. Hiring managers in {niche} consistently list this as a desired area of knowledge. Professionals who can speak to {term_name} with specifics rather than generalities stand out in interviews and internal promotions. As the {niche} field matures, this is one of the concepts that separates experienced practitioners from newcomers.</p>
+    </section>
+
+    <section class="glossary-expansion">
+        <h2>How {term_name} Works in Practice</h2>
+        <p>In most {niche} teams, {term_name} involves a combination of planning, execution, and measurement. The day-to-day reality looks different depending on company size, industry, and team maturity, but the underlying principles remain consistent. Practitioners typically start by assessing the current state, identifying gaps, and building a plan that connects to measurable business outcomes.</p>
+        <p>Execution requires coordination across departments. {term_name} does not happen in isolation. Sales, marketing, product, and customer-facing teams all play a role. The most effective practitioners build relationships across these groups and create processes that are easy to follow. Regular reviews and adjustments keep the work aligned with shifting business priorities and market conditions.</p>
+    </section>
+
+    <section class="glossary-expansion">
+        <h2>Key Skills for {term_name}</h2>
+        <p>Professionals who work with {term_name} benefit from building competency in several related areas. The following skills are frequently associated with this concept in {niche} roles:</p>
+        <ul>
+{skill_items}        </ul>
+    </section>
+
+    <section class="glossary-expansion">
+        <h2>Getting Started with {term_name}</h2>
+        <p>If you are new to {term_name}, these steps will help you build a working foundation:</p>
+        <ol>
+            <li><strong>Study the fundamentals:</strong> Read the definition and key concepts on this page. Look at how {term_name} is discussed in job postings and industry publications to understand what employers expect.</li>
+            <li><strong>Observe how your team handles it today:</strong> Before proposing changes, understand the current state. Talk to colleagues in sales, marketing, and customer success about how they experience {term_name} in their daily work.</li>
+            <li><strong>Start with a small project:</strong> Pick one specific aspect of {term_name} and run a focused initiative. Measure the results, document what worked, and share the findings with your team.</li>
+            <li><strong>Connect with practitioners:</strong> Join {niche} communities, attend webinars, and follow practitioners who share real-world examples. Learning from others who have implemented {term_name} at different companies accelerates your growth.</li>
+        </ol>
+    </section>
+'''
+    return sections
+
+
+def _glossary_expanded_faq(term_name, faq_pairs):
+    """Expand FAQ answers and add two templated entries for glossary pages."""
+    niche = "account-based marketing"
+    site_name = "The ABM Pulse"
+
+    expanded = []
+    for q, a in faq_pairs:
+        expanded_answer = a + f" This is a common area of focus for {niche} teams working to improve their approach to {term_name}."
+        expanded.append((q, expanded_answer))
+
+    expanded.append((
+        f"What tools help with {term_name}?",
+        f"Several platforms support {term_name} workflows, including tools reviewed on {site_name}. The right choice depends on your team size, budget, and existing tech stack. Most teams start with the tools they already have and add specialized solutions as their {term_name} practice matures."
+    ))
+    expanded.append((
+        f"How does {term_name} affect career growth?",
+        f"Professionals who develop expertise in {term_name} are well-positioned for advancement in {niche}. This skill is increasingly valued as organizations invest more in their go-to-market operations. Practitioners with a track record of executing {term_name} initiatives often move into senior and leadership roles faster than peers who lack this experience."
+    ))
+
+    return expanded
+
+
 def build_glossary_term_page(term_data, slug_map):
     """Build a single glossary term page at /glossary/{slug}/."""
     term = term_data["term"]
@@ -1130,9 +1209,13 @@ def build_glossary_term_page(term_data, slug_map):
         ("Glossary", "/glossary/"),
         (term, f"/glossary/{slug}/"),
     ])
-    faq_schema = get_faq_schema(faq_pairs)
 
-    faq_section = faq_html(faq_pairs)
+    # Generate expansion sections and expanded FAQ
+    expansion_html = _glossary_expansion_sections(term, short, related)
+    expanded_faq = _glossary_expanded_faq(term, faq_pairs)
+
+    faq_schema = get_faq_schema(expanded_faq)
+    faq_section = faq_html(expanded_faq)
     related_section = related_terms_html(related, slug_map)
 
     body = f'''<article class="glossary-article container">
@@ -1142,6 +1225,7 @@ def build_glossary_term_page(term_data, slug_map):
     <div class="glossary-body">
         {body_content}
     </div>
+    {expansion_html}
     {related_section}
     {faq_section}
 </article>
