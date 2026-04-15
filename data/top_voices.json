@@ -1,0 +1,258 @@
+{
+  "title": "Top 25 Account-Based Marketing Voices of 2026",
+  "subtitle": "The practitioners, executives, and strategists with the most influence on how B2B companies run account-based programs",
+  "last_updated": "2026-04-14",
+  "methodology": "Ranked by direct impact on ABM practice adoption, cross-list appearances on industry publications (Demandbase, 6sense, ITSMA, Forrester, Gartner, ABM Leadership Alliance, thecmo.com), LinkedIn engagement on ABM-specific content, and real-world pipeline results attributed to their frameworks. We evaluated 60+ candidates and filtered for people whose work actively changes how B2B teams target, engage, and measure named accounts.",
+  "voices": [
+    {
+      "rank": 1,
+      "name": "Sangram Vajre",
+      "title": "CEO",
+      "company": "GTM Partners",
+      "linkedin_url": "https://www.linkedin.com/in/sangramvajre/",
+      "bio": "Co-founded Terminus and built it into a category-defining ABM platform before launching GTM Partners as a go-to-market analyst firm. WSJ bestselling author of MOVE, which introduced the GTM Operating System now used by hundreds of B2B companies. His GTMonday newsletter reaches 175,000+ subscribers weekly, and he's the reason most marketers stopped saying 'funnel' and started saying 'account-based.'",
+      "tags": ["ABM Pioneer", "GTM Strategy", "Category Creation"],
+      "tier": "leader"
+    },
+    {
+      "rank": 2,
+      "name": "Jon Miller",
+      "title": "Founder & CEO",
+      "company": "Phave",
+      "linkedin_url": "https://www.linkedin.com/in/jonmiller2/",
+      "bio": "Co-founded Marketo, then founded Engagio (merged with Demandbase in 2020), and wrote the first book on ABM. Served as Demandbase CMO before leaving to build Phave, an AI-native marketing automation startup. Every ABM platform on the market today borrows concepts he defined. If Sangram popularized ABM, Jon Miller invented the playbook.",
+      "tags": ["ABM Inventor", "Marketing Automation", "MarTech"],
+      "tier": "leader"
+    },
+    {
+      "rank": 3,
+      "name": "Latane Conant",
+      "title": "Chief Revenue Officer",
+      "company": "6sense",
+      "linkedin_url": "https://www.linkedin.com/in/latane-conant/",
+      "bio": "Helped scale 6sense from niche intent vendor to the #1 ABM platform (Gartner Magic Quadrant Leader 3 years running) first as CMO, then as CRO. Author of 'No Forms. No Spam. No Cold Calls.' which became the rallying cry for a new wave of ABM practitioners. Her argument that forms destroy buyer experience forced the entire industry to rethink gating.",
+      "tags": ["ABM Platforms", "Buyer Experience", "Revenue Strategy"],
+      "tier": "leader"
+    },
+    {
+      "rank": 4,
+      "name": "Kristina Jaramillo",
+      "title": "President",
+      "company": "Personal ABM",
+      "linkedin_url": "https://www.linkedin.com/in/kristinajaramillo/",
+      "bio": "Runs Personal ABM, the consultancy that's helped GE Healthcare, SAP, and dozens of enterprise teams build 1:1 ABM programs that actually close revenue. She's been doing ABM consulting for 10+ years, long before the acronym was trendy. Her contrarian take that most 'ABM' is just repackaged demand gen has made her one of the most-debated voices in the space.",
+      "tags": ["1:1 ABM", "Enterprise", "ABM Consulting"],
+      "tier": "leader"
+    },
+    {
+      "rank": 5,
+      "name": "Peter Isaacson",
+      "title": "CMO",
+      "company": "Demandbase",
+      "linkedin_url": "https://www.linkedin.com/in/peterisaacson/",
+      "bio": "Led marketing at Demandbase through its merger with Engagio and transformation into a full-stack ABM platform. Before Demandbase, he was CMO at Castlight Health through its IPO. He's the executive who proved that a vendor can practice what it preaches, running Demandbase's own ABM program as the case study for the platform.",
+      "tags": ["ABM Platforms", "B2B Marketing", "CMO"],
+      "tier": "leader"
+    },
+    {
+      "rank": 6,
+      "name": "Brandon Redlinger",
+      "title": "Co-Founder",
+      "company": "The Forge",
+      "linkedin_url": "https://www.linkedin.com/in/brandonredlinger/",
+      "bio": "Co-hosts The ABM Podcast for the ABM Leadership Alliance and previously led growth at Engagio alongside Jon Miller. Now runs The Forge as a fractional VP of Marketing focused on ABM-driven growth. He's one of the few people in the space who's both built ABM programs in-house and advised dozens of companies on how to scale them.",
+      "tags": ["ABM Podcast", "Growth Marketing", "Fractional CMO"],
+      "tier": "leader"
+    },
+    {
+      "rank": 7,
+      "name": "Corrina Owens",
+      "title": "ABM Strategist",
+      "company": "RapidSOS",
+      "linkedin_url": "https://www.linkedin.com/in/corrina-owens/",
+      "bio": "Built the ABM program at Gong from the ground up, directly influencing millions in pipeline. Known for her no-BS LinkedIn posts about what actually works in ABM vs. what vendors want you to believe. With 10,000+ followers who tune in for tactical advice, she's become the practitioner voice that other practitioners trust.",
+      "tags": ["ABM Practitioner", "Pipeline", "B2B SaaS"],
+      "tier": "leader"
+    },
+    {
+      "rank": 8,
+      "name": "Kathy Macchi",
+      "title": "EVP & Co-Founder",
+      "company": "Inverta",
+      "linkedin_url": "https://www.linkedin.com/in/kathy-macchi-aa148b/",
+      "bio": "ITSMA-certified ABM practitioner since 2007 who co-founded Inverta to help enterprise B2B teams actually execute ABM. She's supported hundreds of ABM rollouts across Fortune 500 companies over 25 years in B2B marketing. If you've attended an ABM workshop at a major conference in the last decade, there's a good chance she was running it.",
+      "tags": ["ABM Consulting", "Enterprise ABM", "ITSMA"],
+      "tier": "leader"
+    },
+    {
+      "rank": 9,
+      "name": "Justin Levy",
+      "title": "Director of Social & Influencer Marketing",
+      "company": "Demandbase",
+      "linkedin_url": "https://www.linkedin.com/in/justinlevy/",
+      "bio": "Runs social and influencer strategy at Demandbase, making him one of the most visible voices amplifying ABM content across LinkedIn and other channels. Previously led social at Citrix and New Relic. He doesn't just market ABM platforms, he builds the communities around them, turning Demandbase's content engine into a category education machine.",
+      "tags": ["Social Marketing", "Community", "ABM Content"],
+      "tier": "leader"
+    },
+    {
+      "rank": 10,
+      "name": "Eric Spett",
+      "title": "Co-Founder",
+      "company": "Terminus",
+      "linkedin_url": "https://www.linkedin.com/in/ericspett/",
+      "bio": "Co-founded Terminus with Sangram Vajre and helped build the original ABM platform that forced the market to take the category seriously. Led the company through its early growth phase before it was acquired. His work proved that ABM could be a standalone software category, not just a feature inside marketing automation.",
+      "tags": ["ABM Platforms", "Startup Founder", "Category Creation"],
+      "tier": "leader"
+    },
+    {
+      "rank": 11,
+      "name": "Sydney Sloan",
+      "title": "Chief Marketing Officer",
+      "company": "G2",
+      "linkedin_url": "https://www.linkedin.com/in/sydsloan/",
+      "bio": "CMO at G2 after previously scaling Salesloft 10x as their first CMO from Series C to a $2.3B valuation. Also served as CMO at Drata. Her playbook for blending brand and ABM to go from $1M to $100M has been adopted by dozens of high-growth SaaS companies. LP at Stage 2 Capital where she advises portfolio companies on the same approach.",
+      "tags": ["CMO", "Brand + ABM", "Scaling"],
+      "tier": "rising"
+    },
+    {
+      "rank": 12,
+      "name": "Bev Burgess",
+      "title": "SVP & ABM Practice Lead",
+      "company": "ITSMA (Momentum Group)",
+      "linkedin_url": "https://www.linkedin.com/in/bevburgess/",
+      "bio": "Literally wrote the book on ABM: 'A Practitioner's Guide to Account-Based Marketing' published by Kogan Page. Led ITSMA's ABM practice for years, creating the certification program that became the gold standard. She defined the three tiers of ABM (strategic, lite, programmatic) that every vendor deck now references.",
+      "tags": ["ABM Framework", "ITSMA", "Author"],
+      "tier": "rising"
+    },
+    {
+      "rank": 13,
+      "name": "Matt Heinz",
+      "title": "President",
+      "company": "Heinz Marketing",
+      "linkedin_url": "https://www.linkedin.com/in/mattheinz/",
+      "bio": "Runs Heinz Marketing, a B2B consultancy that's helped hundreds of companies build pipeline through account-based strategies. Hosts the Sales Pipeline Radio podcast (500+ episodes) and is a regular contributor to CMO Coffee Talk. His approach treats ABM as a pipeline strategy, not a marketing tactic, which resonates with revenue-focused teams.",
+      "tags": ["B2B Pipeline", "ABM Strategy", "Podcasting"],
+      "tier": "rising"
+    },
+    {
+      "rank": 14,
+      "name": "Megan Heuer",
+      "title": "VP of Marketing",
+      "company": "Agilent Technologies",
+      "linkedin_url": "https://www.linkedin.com/in/meganheuer/",
+      "bio": "Former VP at SiriusDecisions (now Forrester) where she led the ABM research practice and published some of the most-cited frameworks in the category. Her research on ABM maturity models became required reading for enterprise marketing teams. Now brings that analyst perspective to running enterprise marketing at Agilent.",
+      "tags": ["ABM Research", "Analyst", "Enterprise Marketing"],
+      "tier": "rising"
+    },
+    {
+      "rank": 15,
+      "name": "Nani Jansen",
+      "title": "VP of ABM",
+      "company": "Snowflake",
+      "linkedin_url": "https://www.linkedin.com/in/nanijansen/",
+      "bio": "Runs one of the largest and most sophisticated ABM programs in B2B at Snowflake, covering thousands of named accounts across multiple tiers. Previously built ABM at Palo Alto Networks. She's proof that ABM works at massive scale when you have the right internal champion and executive buy-in.",
+      "tags": ["Enterprise ABM", "Scaling", "Tech"],
+      "tier": "rising"
+    },
+    {
+      "rank": 16,
+      "name": "Samantha Stone",
+      "title": "Founder",
+      "company": "The Marketing Advisory Network",
+      "linkedin_url": "https://www.linkedin.com/in/samanthagstone/",
+      "bio": "Author of 'Unleash Possible: A Marketing Playbook That Drives Sales' and founder of The Marketing Advisory Network. Former CMO who now consults on ABM and demand gen for mid-market B2B companies. Her work focuses on the messy middle of ABM: what happens after you pick your accounts but before you close them.",
+      "tags": ["ABM Consulting", "Author", "Mid-Market"],
+      "tier": "rising"
+    },
+    {
+      "rank": 17,
+      "name": "Anastasia Gerrakis",
+      "title": "VP of Marketing",
+      "company": "6sense",
+      "linkedin_url": "https://www.linkedin.com/in/anasterrakis/",
+      "bio": "Leads marketing strategy at 6sense, running ABM programs that practice what the platform sells. Her team produces some of the best ABM content in the industry, including the 6sense Revenue AI reports. She's one of the people who keeps 6sense's thought leadership engine running alongside the product.",
+      "tags": ["ABM Platforms", "Content Strategy", "Demand Gen"],
+      "tier": "rising"
+    },
+    {
+      "rank": 18,
+      "name": "Joel Harrison",
+      "title": "Editor-in-Chief & Co-Founder",
+      "company": "B2B Marketing",
+      "linkedin_url": "https://www.linkedin.com/in/joelbharrison/",
+      "bio": "Co-founded B2B Marketing (now Propolis), the UK's leading B2B marketing media brand and community. His Propolis platform has thousands of members discussing ABM strategy daily. He's pushed ABM adoption across EMEA harder than anyone, making the discipline a global conversation instead of a US-only trend.",
+      "tags": ["B2B Media", "EMEA", "Community"],
+      "tier": "rising"
+    },
+    {
+      "rank": 19,
+      "name": "Declan Mulkeen",
+      "title": "CMO",
+      "company": "Strategic IC",
+      "linkedin_url": "https://www.linkedin.com/in/declanmulkeen/",
+      "bio": "CMO at Strategic IC, one of the few agencies that specializes exclusively in ABM. Hosts the Let's Talk ABM podcast which features interviews with ABM practitioners from companies like Adobe, SAP, and ServiceNow. He's surfaced more real-world ABM case studies than almost anyone in the space.",
+      "tags": ["ABM Podcast", "Agency", "Case Studies"],
+      "tier": "rising"
+    },
+    {
+      "rank": 20,
+      "name": "Alisha Lyndon",
+      "title": "Founder & CEO",
+      "company": "Momentum ITSMA",
+      "linkedin_url": "https://www.linkedin.com/in/alishalyndon/",
+      "bio": "Founder of Momentum (now merged with ITSMA) and one of the original architects of strategic 1:1 ABM for enterprise companies. She's trained ABM teams at Microsoft, Google, Salesforce, and dozens of other global brands. Her focus on the human side of ABM, building real relationships with buying committees, separates her from the tech-first crowd.",
+      "tags": ["Strategic ABM", "Enterprise", "Training"],
+      "tier": "rising"
+    },
+    {
+      "rank": 21,
+      "name": "Chris Golec",
+      "title": "Founder",
+      "company": "Demandbase",
+      "linkedin_url": "https://www.linkedin.com/in/chrisgolec/",
+      "bio": "Founded Demandbase in 2006, years before 'ABM' was even a term. Built the company into the leading ABM platform and led it through multiple funding rounds totaling $200M+. His original vision of using IP-based targeting for B2B marketing laid the foundation for what the entire ABM technology category would become.",
+      "tags": ["ABM Platforms", "Founder", "B2B AdTech"],
+      "tier": "rising"
+    },
+    {
+      "rank": 22,
+      "name": "Rob Leavitt",
+      "title": "Senior Vice President",
+      "company": "ITSMA (Momentum Group)",
+      "linkedin_url": "https://www.linkedin.com/in/robleavitt/",
+      "bio": "Spent 15+ years at ITSMA leading thought leadership programs and ABM research. He's published dozens of ABM benchmarking reports that set the standard for how companies measure program maturity. If Bev Burgess defined the ABM tiers, Rob Leavitt created the scorecards companies use to grade themselves.",
+      "tags": ["ABM Benchmarking", "Research", "Thought Leadership"],
+      "tier": "rising"
+    },
+    {
+      "rank": 23,
+      "name": "Craig Rosenberg",
+      "title": "Chief Platform Officer",
+      "company": "Scale Venture Partners",
+      "linkedin_url": "https://www.linkedin.com/in/craigrosenberg/",
+      "bio": "Known as 'The Funnelholic,' Craig built TOPO (acquired by Gartner in 2021) into one of the most respected B2B research firms covering ABM, sales development, and demand gen. Now at Scale Venture Partners advising portfolio companies on go-to-market strategy. His ABM benchmarking data from TOPO is still cited everywhere.",
+      "tags": ["ABM Research", "Venture Capital", "B2B Strategy"],
+      "tier": "rising"
+    },
+    {
+      "rank": 24,
+      "name": "Kerry Cunningham",
+      "title": "Head of Research",
+      "company": "6sense",
+      "linkedin_url": "https://www.linkedin.com/in/kerrycunningham/",
+      "bio": "Former SiriusDecisions and Forrester analyst who now leads research at 6sense. His buying group research reshaped how companies think about ABM targeting, proving that the average B2B deal involves 10+ stakeholders. His data on 'dark funnel' activity gave ABM teams the evidence they needed to justify intent-based strategies.",
+      "tags": ["Buying Groups", "Dark Funnel", "ABM Research"],
+      "tier": "rising"
+    },
+    {
+      "rank": 25,
+      "name": "Charm Bianchini",
+      "title": "VP of Demand Generation",
+      "company": "RollWorks",
+      "linkedin_url": "https://www.linkedin.com/in/charmbianchini/",
+      "bio": "Leads demand gen at RollWorks (a division of NextRoll), the ABM platform built for mid-market B2B companies. She's been vocal about making ABM accessible to teams without six-figure platform budgets, which is a perspective the enterprise-focused ABM conversation desperately needed. Her content on affordable ABM execution gets consistent traction on LinkedIn.",
+      "tags": ["Mid-Market ABM", "Demand Gen", "ABM Platforms"],
+      "tier": "rising"
+    }
+  ]
+}

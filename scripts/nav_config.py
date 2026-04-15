@@ -53,6 +53,7 @@ NAV_ITEMS = [
         ],
     },
     {"href": "/glossary/", "label": "Glossary"},
+    {"href": "/voices/", "label": "Top Voices"},
     {
         "href": "/insights/",
         "label": "Resources",
@@ -85,6 +86,7 @@ FOOTER_COLUMNS = {
         {"href": "/glossary/", "label": "Glossary"},
         {"href": "/insights/", "label": "Insights"},
         {"href": "/comparisons/", "label": "Comparisons"},
+        {"href": "/voices/", "label": "Top Voices"},
         {"href": "/newsletter/", "label": "Newsletter"},
         {"href": "/about/", "label": "About"},
     ],
