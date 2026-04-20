@@ -31,6 +31,7 @@ RESOURCE_DATA = {
             {"name": "6sense Blog", "url": "https://6sense.com/blog/", "desc": "ABM platform blog covering intent data, predictive analytics, and account-based strategies."},
             {"name": "MarTech ABM Section", "url": "https://martech.org/topic/account-based-marketing-abm/", "desc": "ABM news, trends, and how-to guides."},
             {"name": "ABM Pulse", "url": "https://theabmpulse.com/", "desc": "Account-based marketing intelligence and tool reviews.", "owned": True},
+            {"name": "MOPs Report", "url": "https://mopsreport.com/", "desc": "Marketing operations career intelligence with salary data, tool reviews, and MOps glossary.", "owned": True},
         ]},
         {"title": "Podcasts", "items": [
             {"name": "Account-Based Marketing Podcast (Momentum ITSMA)", "url": "https://podcasts.apple.com/us/podcast/account-based-marketing/id1463942306", "desc": "Monthly conversations with sales and marketing leaders sharing practical ABM tips."},
