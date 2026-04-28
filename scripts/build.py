@@ -208,13 +208,16 @@ def build_about_page():
         <li><strong>Weekly newsletter</strong> with salary shifts, tool intel, and market data</li>
     </ul>
     <h2>Who We Are</h2>
-    <p>Built by <strong>Rome Thorndike</strong>. All content is vendor-neutral and based on real market data. We don't accept pay-to-play reviews or sponsored rankings.</p>
+    <p>The ABM Pulse is built by <strong>Rome Thorndike</strong>, VP of Revenue at Firmograph.ai. He has executed account-based strategies at large enterprises including Salesforce and Microsoft, where ABM was central to the enterprise selling motion. Over 15+ years in B2B sales and revenue leadership, Rome has partnered with marketing teams to build target account lists, coordinate multi-threaded outreach, and align sales and marketing on high-value accounts. He holds an MBA from UC Berkeley's Haas School of Business. He built The ABM Pulse because ABM practitioners sit at the intersection of sales and marketing and deserve dedicated career intelligence.</p>
+    <p><a href="https://www.linkedin.com/in/romethorndike/" target="_blank" rel="noopener">LinkedIn</a></p>
+    <p>All content is vendor-neutral and based on real market data. We don't accept pay-to-play reviews or sponsored rankings.</p>
     <p>Questions? Reach out at <a href="mailto:rome@getprovyx.com">rome@getprovyx.com</a>.</p>
 </div>'''
 
+    person_schema = '<script type="application/ld+json">{"@context":"https://schema.org","@type":"Person","name":"Rome Thorndike","url":"https://www.linkedin.com/in/romethorndike/","jobTitle":"VP of Revenue","worksFor":{"@type":"Organization","name":"Firmograph.ai"},"alumniOf":{"@type":"EducationalOrganization","name":"UC Berkeley Haas School of Business"}}</script>'
     page = get_page_wrapper(
         title=title, description=description, canonical_path="/about/",
-        body_content=body, active_path="/about/", extra_head=bc_schema,
+        body_content=body, active_path="/about/", extra_head=bc_schema + "\n" + person_schema,
     )
     write_page("about/index.html", page)
     print(f"  Built: about/index.html")
