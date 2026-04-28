@@ -422,6 +422,7 @@ def build_careers_index():
     page = get_page_wrapper(
         title=title, description=description, canonical_path="/careers/",
         body_content=body, active_path="/careers/", extra_head=bc_schema,
+        show_sources=True,
     )
     write_page("careers/index.html", page)
     print(f"  Built: careers/index.html")
@@ -577,6 +578,7 @@ def build_careers_abm_strategist():
     page = get_page_wrapper(
         title=title, description=description, canonical_path="/careers/how-to-become-abm-strategist/",
         body_content=body, active_path="/careers/", extra_head=bc_schema + faq_schema,
+        show_sources=True,
     )
     write_page("careers/how-to-become-abm-strategist/index.html", page)
     print(f"  Built: careers/how-to-become-abm-strategist/index.html")
@@ -626,6 +628,7 @@ def build_insights_page():
     page = get_page_wrapper(
         title=title, description=description, canonical_path="/insights/",
         body_content=body, active_path="/insights/", extra_head=bc_schema,
+        show_sources=True,
     )
     write_page("insights/index.html", page)
     print(f"  Built: insights/index.html")
@@ -718,6 +721,7 @@ def build_comparisons_index():
     page = get_page_wrapper(
         title=title, description=description, canonical_path="/comparisons/",
         body_content=body, active_path="/comparisons/", extra_head=bc_schema,
+        show_sources=True,
     )
     write_page("comparisons/index.html", page)
     print(f"  Built: comparisons/index.html")
@@ -1030,7 +1034,7 @@ def build_top_voices():
     extra = bc_schema + item_list_schema + article_schema + voices_css
     page = get_page_wrapper(data["title"], data.get("subtitle", ""),
                             "/voices/", body, active_path="/voices/",
-                            extra_head=extra)
+                            extra_head=extra, show_sources=True)
     write_page("voices/index.html", page)
     print(f"  Built: /voices/ ({len(voices)} voices)")
 

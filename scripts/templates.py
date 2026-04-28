@@ -174,8 +174,8 @@ def get_footer_html():
 # ---------------------------------------------------------------------------
 
 def get_page_wrapper(title, description, canonical_path, body_content,
-                     active_path="", extra_head="", body_class=""):
-    """Assemble a full HTML document."""
+                     active_path="", extra_head="", body_class="", show_sources=False):
+    """Assemble a full HTML document. Pass show_sources=True for content pages (E-E-A-T)."""
     bc = f' class="{body_class}"' if body_class else ""
 
     # Auto-compute OG image path from canonical_path (skip if OG generation disabled)
@@ -189,6 +189,7 @@ def get_page_wrapper(title, description, canonical_path, body_content,
     head = get_html_head(title, description, canonical_path, extra_head, og_image=og_image)
     nav = get_nav_html(active_path)
     footer = get_footer_html()
+    sources = get_sources_section() if show_sources else ""
 
     inline_js = f'''<script>
 (function(){{
@@ -270,6 +271,7 @@ def get_page_wrapper(title, description, canonical_path, body_content,
 {nav}
 <main class="main-content">
 {body_content}
+{sources}
 </main>
 {footer}
 {inline_js}
@@ -443,6 +445,19 @@ def faq_html(qa_pairs):
     <h2>Frequently Asked Questions</h2>
     {items}
 </section>'''
+
+
+def get_sources_section():
+    """Return E-E-A-T sources & methodology block for content pages."""
+    return '''<aside class="content-sources">
+    <h4>Sources & Methodology</h4>
+    <ul>
+        <li>Salary and compensation data sourced from <strong>2,400+</strong> verified job postings, updated weekly</li>
+        <li>Employment projections from the <a href="https://www.bls.gov/ooh/management/advertising-promotions-and-marketing-managers.htm" target="_blank" rel="noopener">Bureau of Labor Statistics</a> Occupational Outlook Handbook</li>
+        <li>Tool adoption data derived from job description analysis across verified employer listings</li>
+        <li><a href="/salary/methodology/">Read our full methodology</a></li>
+    </ul>
+</aside>'''
 
 
 def newsletter_cta_html(context=""):
