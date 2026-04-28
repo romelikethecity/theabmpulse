@@ -62,6 +62,7 @@ NAV_ITEMS = [
             {"href": "/comparisons/", "label": "Comparisons"},
         ],
     },
+    {"href": "/about/", "label": "About"},
 ]
 
 FOOTER_COLUMNS = {
