@@ -1,28 +1,24 @@
 {
   "date": "April 30, 2026",
-  "total_jobs": 264,
+  "total_jobs": 257,
   "tools": {
-    "Salesforce": 56,
-    "Hubspot": 43,
+    "Salesforce": 54,
+    "Hubspot": 41,
     "Marketo": 18,
-    "6Sense": 13,
+    "6Sense": 12,
     "Salesforce Marketing Cloud": 11,
-    "Demandbase": 10,
-    "Claude": 9,
+    "Demandbase": 9,
+    "Claude": 7,
     "Aws": 6,
-    "Tableau": 5,
+    "Tableau": 4,
     "Gcp": 4,
     "G2": 4,
     "Instantly": 4,
-    "Clay": 3,
     "Hubspot Marketing": 3,
     "Power Bi": 3,
     "Catalyst": 3,
-    "Salesloft": 2,
-    "Gong": 2,
-    "Influ2": 2,
-    "Usergems": 2,
     "Anthropic": 2,
+    "Clay": 2,
     "Langchain": 2,
     "Zoominfo": 2,
     "Bombora": 2,
@@ -33,12 +29,15 @@
     "Mailchimp": 2,
     "Looker": 1,
     "Adroll": 1,
+    "Salesloft": 1,
     "Gemini": 1,
     "G2 Intent": 1,
     "G2 Buyer Intent": 1,
+    "Influ2": 1,
     "Common Room": 1,
     "Copper": 1,
     "Semrush": 1,
+    "Usergems": 1,
     "Captivateiq": 1,
     "Openai": 1,
     "Cohere": 1,
@@ -51,49 +50,50 @@
     "Unbounce": 1,
     "Instapage": 1,
     "Gong Engage": 1,
+    "Gong": 1,
     "Braze": 1
   },
   "motion": {
-    "Channel": 101,
-    "Abm": 49,
+    "Channel": 97,
+    "Abm": 48,
     "Direct": 11,
     "Outbound": 1,
     "Inside": 1,
     "Plg": 1
   },
+  "geo_focus": {
+    "Global": 124,
+    "North America": 90,
+    "Apac": 25,
+    "Emea": 23,
+    "Latam": 10
+  },
   "team_structure": {
-    "Build Team": 127,
+    "Build Team": 122,
     "Reports Cro": 30,
     "First Hire": 7,
     "Reports Vp": 5,
     "Reports Ceo": 1
   },
   "hiring_signals": {
-    "Growth Hire": 186,
-    "Turnaround": 49,
+    "Growth Hire": 181,
+    "Turnaround": 47,
     "Immediate": 20
   },
-  "comp_signals": {
-    "Equity": 165,
-    "Ote Mentioned": 17,
-    "Uncapped": 5
-  },
   "segment": {
-    "Enterprise": 70,
-    "Fortune 500": 11,
+    "Enterprise": 67,
+    "Fortune 500": 10,
     "Smb": 9
   },
+  "comp_signals": {
+    "Equity": 161,
+    "Ote Mentioned": 17,
+    "Uncapped": 4
+  },
   "deal_size": {
-    "Seven Figure": 16,
+    "Seven Figure": 14,
     "Enterprise Deal": 3,
     "Transactional": 1
-  },
-  "geo_focus": {
-    "Global": 127,
-    "North America": 90,
-    "Apac": 25,
-    "Emea": 24,
-    "Latam": 10
   },
   "sales_cycle": {
     "Long": 7,

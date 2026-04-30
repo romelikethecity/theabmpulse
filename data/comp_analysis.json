@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-04-30T03:13:54.621576",
-  "total_records": 264,
-  "records_with_salary": 163,
-  "disclosure_rate": 61.7,
+  "generated_at": "2026-04-30T05:54:04.945370",
+  "total_records": 257,
+  "records_with_salary": 157,
+  "disclosure_rate": 61.1,
   "salary_stats": {
     "min": 24960,
     "max": 554000,
-    "median": 106400,
-    "avg": 114372,
-    "count_with_salary": 163
+    "median": 104148,
+    "avg": 114571,
+    "count_with_salary": 157
   },
   "by_seniority": {
     "Head of": {
@@ -18,28 +18,28 @@
       "median": 180000
     },
     "Mid": {
-      "count": 58,
-      "min_base_avg": 93205,
-      "max_base_avg": 123196,
-      "median": 86625
+      "count": 55,
+      "min_base_avg": 91380,
+      "max_base_avg": 121406,
+      "median": 85000
     },
     "Entry": {
-      "count": 22,
-      "min_base_avg": 82902,
-      "max_base_avg": 108412,
+      "count": 21,
+      "min_base_avg": 83517,
+      "max_base_avg": 109526,
       "median": 70000
     },
     "Unknown": {
-      "count": 31,
-      "min_base_avg": 119756,
-      "max_base_avg": 170920,
-      "median": 122000
+      "count": 30,
+      "min_base_avg": 121414,
+      "max_base_avg": 172951,
+      "median": 125000
     },
     "Senior": {
-      "count": 26,
-      "min_base_avg": 124324,
-      "max_base_avg": 177211,
-      "median": 116400
+      "count": 25,
+      "min_base_avg": 123897,
+      "max_base_avg": 178300,
+      "median": 115000
     },
     "Director": {
       "count": 19,
@@ -50,21 +50,21 @@
   },
   "by_metro": {
     "New York": {
-      "count": 43,
-      "min_base_avg": 115199,
-      "max_base_avg": 147817,
+      "count": 40,
+      "min_base_avg": 115464,
+      "max_base_avg": 148528,
       "median": 108531
     },
     "Unknown": {
-      "count": 78,
-      "min_base_avg": 105222,
-      "max_base_avg": 145587,
+      "count": 77,
+      "min_base_avg": 104835,
+      "max_base_avg": 145594,
       "median": 100000
     },
     "Los Angeles": {
-      "count": 12,
-      "min_base_avg": 89090,
-      "max_base_avg": 128888,
+      "count": 11,
+      "min_base_avg": 90825,
+      "max_base_avg": 130605,
       "median": 83900
     },
     "San Francisco": {
@@ -74,9 +74,9 @@
       "median": 170000
     },
     "Chicago": {
-      "count": 6,
-      "min_base_avg": 130758,
-      "max_base_avg": 160761,
+      "count": 5,
+      "min_base_avg": 133910,
+      "max_base_avg": 164314,
       "median": 118200
     },
     "Washington DC": {
@@ -94,15 +94,15 @@
   },
   "by_remote": {
     "onsite": {
-      "count": 142,
-      "min_base_avg": 116576,
-      "max_base_avg": 158120,
+      "count": 137,
+      "min_base_avg": 117035,
+      "max_base_avg": 159015,
       "median": 110000
     },
     "remote": {
-      "count": 21,
-      "min_base_avg": 99470,
-      "max_base_avg": 129373,
+      "count": 20,
+      "min_base_avg": 97694,
+      "max_base_avg": 128592,
       "median": 85000
     }
   },

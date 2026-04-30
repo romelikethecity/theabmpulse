@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-30",
-  "total_jobs": 264,
+  "total_jobs": 257,
   "jobs": [
     {
       "job_id": "indeed-https://www.",
@@ -8753,61 +8753,6 @@
     },
     {
       "job_id": "indeed-https://www.",
-      "title": "Manager, Growth (Integrated Marketing)",
-      "company": "Wonder",
-      "location": "Chicago, IL, US",
-      "location_type": "onsite",
-      "is_remote": false,
-      "min_amount": 115000,
-      "max_amount": 143000,
-      "seniority": "Mid",
-      "function_category": "marketing",
-      "date_posted": "2026-04-14",
-      "date_scraped": "2026-04-16",
-      "source": "indeed",
-      "source_url": "https://www.indeed.com/viewjob?jk=19222556b47fbd96",
-      "description": "**About Grubhub**\n\n\nAt Grubhub, we champion restaurants from coast to coast. Restaurants sit at the heart of communities. It’s our mission to strengthen their roots, deepen their connections, and increase the positive impact they have on people and society.\n\n\nGrubhub, part of Wonder, delivers the best local, authentic cuisine right to diners’ doors—and new customers and billions in revenue to local businesses. Featuring over 375,000 merchants in over 4,000 cities nationwide, our innovative technology, user\\-friendly platforms, and streamlined delivery capabilities have made us an industry leader in the world of online food ordering.\n\n\nSince we opened our doors in 2004, Grubhub has been opening doors all across the country. Bakery doors in Hyde Park, jibarito joint doors in Queens, and doors of opportunity all across the country. Join our team and help us open more.\n\n**About the Opportunity**\n\n\nGrubhub’s B2C Merchant Marketing team drives strategic objectives by showcasing top merchant supply and compelling offers through integrated in\\-app experiences and multi\\-channel campaigns. As a key member of B2C Merchant Marketing team, the Manager, Growth operates at the intersection of growth strategy and integrated marketing to drive Grubhub’s long term strategic priorities. This role will own growth workstreams from inception to optimization — transforming data into market\\-leading local and national campaigns—while partnering cross\\-functionally with Analytics, Brand, Creative, Product, and Merchant Network teams to deliver integrated programs. By thinking holistically, you will align campaign strategy with broader brand objectives to fundamentally advance Grubhub’s business impact and growth goals.\n\n**The Impact You Will Make**\n\n* Strategic Market Expansion: Own the end\\-to\\-end strategy and execution of merchant growth initiatives across key markets to achieve long\\-term scale and business objectives.\n* Scale Multi\\-Channel Frameworks: Transform individual pilots into scalable, multi\\-level marketing playbooks that consistently drive diner acquisition, engagement, and order volume.\n* Strengthen Brand \\& Retention: Execute merchant\\-centric campaigns designed to build local credibility, enhance national brand affinity, and reduce churn among high\\-value partners.\n* Champion Cross\\-Functional Alignment: Orchestrate strategy across Brand, Creative, Product, and Merchant Network teams to ensure cohesive execution and unified departmental priorities.\n* Optimize Performance Insights: Translate complex performance data into actionable insights and institutional best practices to refine future campaign ROI and team accountability.\n\n**What You Bring to the Table**\n\n* 5\\+ years of experience in marketing, strategy, operations, consulting, business development, or a high\\-growth environment (MBA a plus)\n* Bachelor’s degree in Business, Marketing, or STEM related fields\n* Proven ability to develop and execute marketing campaigns and GTM plans in a highly matrixed environment.\n* Experience leading complex, cross\\-functional initiatives and partnering with technical or product teams\n* Experience building and managing marketing budgets and forecasts, including ROI analysis, pacing, and variance reporting.\n* Excellent communication, storytelling, and collaboration skills; ability to align teams and influence senior leaders\n* Experience with SQL and BI tools such as Tableau for dashboarding and visualization is a plus but not required\n* Curiosity and a drive to test, learn, and improve\n* Highly organized, detail\\-oriented, and skilled at managing multiple priorities\n\n\nAs a matter of company policy, Wonder does not sponsor applicants for employment visa status for this role.\n\n\nOur hybrid model requires 3 days a week in the office. That said, many team members choose to come in more often to take advantage of in\\-person collaboration and connection. You're welcome—and encouraged—to be in the office up to 5 days a week if it works for you.\n\n\n\\#LI\\-Hybrid\n\n**Illinois:** $115,000 \\- $128,500\n\n**New York:** $128,000 \\- $143,000\n\n\nWonder uses geographic\\-specific salary structures, which means the salary offered may vary depending on where the job is located. The final salary offer will take into account various factors, such as the candidate's skills, education, training, credentials, and experience.\n\n**Benefits**\n\n\nWe offer a competitive salary package including equity and 401K. Additionally, we provide multiple medical, dental, and vision plans to meet all of our employees' needs as well as many benefits and perks that are not listed.\n\n**A Final Note**\n\n\nAt Wonder, we build the best teams by hiring with an objective lens — evaluating people for their potential while championing diversity, equity, and inclusion. We do not discriminate based on race, color, religion, gender identity or expression, sexual orientation, national origin, age, military service eligibility, veteran status, marital status, disability, or any other protected class. As part of our commitment to fair and compliant hiring practices, Wonder participates in the federal government's E\\-Verify program to confirm employment eligibility. If you need an accommodation during the interview process, please let your recruiter know.\n\n**We look forward to hearing from you! We'll contact you via email or text to schedule interviews and share information about your candidacy**.",
-      "description_snippet": "**About Grubhub**\n\n\nAt Grubhub, we champion restaurants from coast to coast. Restaurants sit at the heart of communities. It’s our mission to strengthen their roots, deepen their connections, and increase the positive impact they have on people and society.\n\n\nGrubhub, part of Wonder, delivers the best local, authentic cuisine right to diners’ doors—and new customers and billions in revenue to local businesses. Featuring over 375,000 merchants in over 4,000 cities nationwide, our innovative techn",
-      "tools": [
-        {
-          "tool_name": "Tableau",
-          "tool_category": "BI_Analytics",
-          "tool_id": "tableau"
-        }
-      ],
-      "signals": [
-        {
-          "signal_type": "motion",
-          "signal_id": "channel",
-          "signal_value": "Channel"
-        },
-        {
-          "signal_type": "team_structure",
-          "signal_id": "build_team",
-          "signal_value": "Build Team"
-        },
-        {
-          "signal_type": "hiring_signals",
-          "signal_id": "growth_hire",
-          "signal_value": "Growth Hire"
-        },
-        {
-          "signal_type": "hiring_signals",
-          "signal_id": "turnaround",
-          "signal_value": "Turnaround"
-        },
-        {
-          "signal_type": "comp_signals",
-          "signal_id": "equity",
-          "signal_value": "Equity"
-        }
-      ],
-      "data_quality_score": 100,
-      "has_salary": true,
-      "has_description": true
-    },
-    {
-      "job_id": "indeed-https://www.",
       "title": "Field Marketing Manager",
       "company": "Caesars Entertainment",
       "location": "MO, US",
@@ -9150,35 +9095,6 @@
     },
     {
       "job_id": "indeed-https://www.",
-      "title": "Business Development / Field Marketing – Property Restoration | Chicago Metro",
-      "company": "ProTech Restoration",
-      "location": "Elk Grove Village, IL, US",
-      "location_type": "onsite",
-      "is_remote": true,
-      "min_amount": 70000,
-      "max_amount": 110000,
-      "seniority": "",
-      "function_category": "sales",
-      "date_posted": "2026-04-14",
-      "date_scraped": "2026-04-15",
-      "source": "indeed",
-      "source_url": "https://www.indeed.com/viewjob?jk=b42b6f2034663385",
-      "description": "**About the Role**\n\nWe're a growing property damage restoration company looking for a driven, personable Business Development Representative to own and grow our referral network across the Chicago metro area. This is a boots\\-on\\-the\\-ground role — you'll be out in the field every day, building authentic relationships with the people who influence where restoration work goes: plumbers, insurance agents, and property managers.\n\nThis isn't a desk job. If you thrive on conversation, love meeting new people, and are motivated by watching your hard work compound into real income over time, this role was built for you.\n\n**What You'll Do**\n\n* Identify, prospect, and develop referral partnerships with plumbers, insurance agents, property managers, and other trade and industry professionals across the Chicago metro area\n* Hit a weekly target of **50 quality interactions** — defined as real, two\\-way conversations that either advance a referral relationship or teach you something new about a prospect. These happen through networking events, lunch and learns, trade shows, job site visits, and one\\-on\\-ones\n* Nurture existing relationships through consistent, intentional outreach — not just showing up, but showing up with purpose\n* Track all activity and pipeline in our CRM and bring visibility to leadership during periodic office check\\-ins\n* Collaborate with our operations team to ensure referred clients have a seamless experience — your reputation in the field depends on ours\n\n**What We're Looking For**\n\n* **A natural connector.** You remember names, follow up without being asked, and genuinely enjoy people. Small talk doesn't drain you — it energizes you.\n* **Self\\-directed and disciplined.** You manage your own calendar and stay accountable to activity metrics without someone watching over your shoulder. We are looking for an individual who can achieve at least 50 meaningful touchpoints per week — networking events, lunch and learns, trade shows, and one\\-on\\-ones all count\n* **Resilient and consistent.** Referral\\-based sales takes time to compound. You put in the reps even before the results arrive.\n* **Prior experience in restoration, insurance, roofing, plumbing, HVAC, construction, or related trades is a strong plus** — but not required for the right candidate\n* **Existing relationships** with plumbers, insurance professionals, or property managers in the Chicago area? That's a meaningful head start.\n* Valid driver's license and reliable personal vehicle required\n\n**Compensation \\& Earning Potential**\n\n* Base salary: **$60,000–$70,000** based on experience\n* **Commission** tied directly to referral revenue you generate with no cap\n* **Performance bonuses** for hitting partnership and pipeline milestones\n* Based on our benchmarks, reps who hit their stride in year two are on track for **total compensation at the high end of the indicated range** — the upside is real and tied to effort\n\n**Territory Note**\n\nOur primary service territory covers a 90\\-minute radius from Elk Grove Village (60007\\). While you're welcome to network broadly across greater Chicago, ongoing referral partnerships work best when projects fall within our serviceable footprint — something we'll align on together early.\n\n**Why Join Us**\n\nWe're not a faceless national franchise. We're a growing local operation that moves fast, treats people right, and rewards the people who bring in business. You'll have direct access to leadership, a clear roadmap for what success looks like, and the satisfaction of building a book of business that's genuinely yours.\n\n**To Apply**\n\nSubmit your resume along with filling out this brief form to tell us more about yourself:  \n*https://form.jotform.com/261033641875053*\n\nJob Type: Full\\-time\n\nPay: $70,000\\.00 \\- $110,000\\.00 per year\n\nBenefits:\n\n* 401(k)\n* Dental insurance\n* Health insurance\n* Paid time off\n* Vision insurance\n\nCompensation Package:\n\n* Bonus opportunities\n* Commission pay\n\nWork Location: Hybrid remote in Elk Grove Village, IL 60007",
-      "description_snippet": "**About the Role**\n\nWe're a growing property damage restoration company looking for a driven, personable Business Development Representative to own and grow our referral network across the Chicago metro area. This is a boots\\-on\\-the\\-ground role — you'll be out in the field every day, building authentic relationships with the people who influence where restoration work goes: plumbers, insurance agents, and property managers.\n\nThis isn't a desk job. If you thrive on conversation, love meeting ne",
-      "tools": [],
-      "signals": [
-        {
-          "signal_type": "comp_signals",
-          "signal_id": "uncapped",
-          "signal_value": "Uncapped"
-        }
-      ],
-      "data_quality_score": 100,
-      "has_salary": true,
-      "has_description": true
-    },
-    {
-      "job_id": "indeed-https://www.",
       "title": "Sr. Manager, Integrated Marketing, DashPass",
       "company": "DoorDash",
       "location": "New York, NY, US",
@@ -9313,45 +9229,6 @@
       ],
       "data_quality_score": 100,
       "has_salary": true,
-      "has_description": true
-    },
-    {
-      "job_id": "indeed-https://www.",
-      "title": "Field Marketing Analyst PR & USVI",
-      "company": "PepsiCo",
-      "location": "PR, US",
-      "location_type": "onsite",
-      "is_remote": false,
-      "min_amount": null,
-      "max_amount": null,
-      "seniority": "Entry",
-      "function_category": "marketing",
-      "date_posted": "2026-04-13",
-      "date_scraped": "2026-04-15",
-      "source": "indeed",
-      "source_url": "https://www.indeed.com/viewjob?jk=fac08712f9a4a847",
-      "description": "Overview:\n**CAREERS TO SMILE ABOUT**  \n\nAt PepsiCo, you’ll discover a place where our mission is to create smiles around the world. With a portfolio of more than 500 beloved brands including, Gatorade, Lay’s and Quaker, our work touches millions of people every day.  \n\nAt the heart of the company is a team of thinkers, creators, and problem\\-solvers who collaborate to innovate and turn ideas into action. Driven by innovation and a focus on creating joyful moments through food and drinks, our decisions are guided by consumer centricity, creating opportunities for our associates to do meaningful work and make a lasting impact in the communities we serve.  \n\nWhatever your role, you’ll be part of a global community that values your ideas and empowers you to make an impact, on your career and on the world around you.\nResponsibilities:\n**The Opportunity**  \n\nRole Purpose Drive the growth of PepsiCo Foods categories through the execution of brand growth strategies in Puerto Rico and the U.S. Virgin Islands, strengthening category penetration, market share leadership, and sustainable business growth through strong local consumer connection. Scope \\& Interaction Role based 100% in Puerto Rico, working cross‑functionally with local and regional teams and acting as a peer to the current Field Marketing team. **Your Impact**  \n\nKey Responsibilities Execute the Field Marketing agenda for PepsiCo Foods brands in PR \\& USVI. Implement brand initiatives aligned with local insights and business objectives. Collaborate closely with Sales, Commercial, Operations, Logistics, and DX teams. Coordinate and manage BTL, creative, and media agencies at local and international levels.  \n\n\nQualifications:\n**Who Are We Looking For?**  \n\n* Profile Minimum 2 years of experience in a similar role.\n* Background in Marketing, Business Administration, or related fields preferred.\n* Project management skills desirable.\n* Critical skills: creative, flexible, influential, team‑oriented.\n* Conversational English\n\n  \n\nIf this is an opportunity that interests you, we encourage you to apply even if you do not meet 100% of the requirements. **What can you expect from us:**  \n\n* Opportunities to learn and develop every day through a wide range of programs.\n* Internal digital platforms that promote self\\-learning.\n* Development programs according to Leadership skills.\n* Specialized training according to the role.\n* Learning experiences with internal and external providers.\n* We love to celebrate success, which is why we have recognition programs for seniority, behavior, leadership, moments of life, among others.\n* Financial wellness programs that will help you reach your goals in all stages of life.\n* A flexibility program that will allow you to balance your personal and work life, adapting your working day to your lifestyle.\n* And because your family is also important to us, they can also enjoy benefits such as our Wellness Line, thousands of Agreements and Discounts, Scholarship programs for your children, Aid Plans for different moments of life, among others.\n\n  \n\nWe are an equal opportunity employer and value diversity at our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We respect and value diversity as a work force and innovation for the organization.",
-      "description_snippet": "Overview:\n**CAREERS TO SMILE ABOUT**  \n\nAt PepsiCo, you’ll discover a place where our mission is to create smiles around the world. With a portfolio of more than 500 beloved brands including, Gatorade, Lay’s and Quaker, our work touches millions of people every day.  \n\nAt the heart of the company is a team of thinkers, creators, and problem\\-solvers who collaborate to innovate and turn ideas into action. Driven by innovation and a focus on creating joyful moments through food and drinks, our dec",
-      "tools": [],
-      "signals": [
-        {
-          "signal_type": "geo_focus",
-          "signal_id": "global",
-          "signal_value": "Global"
-        },
-        {
-          "signal_type": "team_structure",
-          "signal_id": "build_team",
-          "signal_value": "Build Team"
-        },
-        {
-          "signal_type": "hiring_signals",
-          "signal_id": "growth_hire",
-          "signal_value": "Growth Hire"
-        }
-      ],
-      "data_quality_score": 75,
-      "has_salary": false,
       "has_description": true
     },
     {
@@ -12459,76 +12336,6 @@
     },
     {
       "job_id": "indeed-https://www.",
-      "title": "Lead Field Marketing Manager",
-      "company": "Findigs",
-      "location": "New York, NY, US",
-      "location_type": "onsite",
-      "is_remote": false,
-      "min_amount": 135000,
-      "max_amount": 150000,
-      "seniority": "Senior",
-      "function_category": "marketing",
-      "date_posted": "2026-04-02",
-      "date_scraped": "2026-04-04",
-      "source": "indeed",
-      "source_url": "https://www.indeed.com/viewjob?jk=aeabd2ea0ccf578d",
-      "description": "### **Who we are**\n\n\n\nFindigs is on a mission to make renting work for all of us. Renting is one of life's most critical experiences, yet the process is often slow, opaque, and unfair. We're changing that by building the first end\\-to\\-end platform that turns complex screening into a seamless, high\\-trust experience for both property managers and renters.\n\n\n\nWe're growing fast, fueled by $78M in funding from the investors behind companies like Affirm, Gusto, and Uber. With a data\\-backed product that allows our customers to make smarter, more predictable decisions, and a team dedicated to transparency and precision, we're not just improving the rental process; we're setting the new standard for the entire industry.\n\n\n\nWe're aiming to double our impact this year, and we need builders, thinkers, and problem\\-solvers to help us scale. If you're ready to modernize one of the most essential industries, we'd love for you to be a part of it.\n\n\n### **The Team**\n\n\n\nThe Marketing team at Findigs operates at the intersection of product, sales, and revenue, with a mandate to build the Findigs brand in the market and convert that presence into pipeline. We are a lean, high\\-ownership team that moves fast and uses AI to do more with less.\n\n\n\nThis role sits within Marketing and reports directly to the VP of Marketing. You will work in close partnership with the Sales team, SDRs, and the incoming Senior PMM to make sure every event, webinar, and community touchpoint Findigs shows up at is converting into real business outcomes.\n\n\n### **The Role**\n\n\n\nWe're looking for a Lead Field Marketing Manager who understands that events are not a brand exercise, they are a pipeline engine. You will own 10 to 20 events per year end to end. This includes everything from sourcing and negotiation through on\\-site execution and post\\-event follow\\-up, and you will be accountable for the pipeline each one generates.\n\n\n\nYou will have the opportunity to build the system around each event: the right target account list going in, the SDR and AE activation happening on the floor, the follow\\-up sequences that convert meetings to opportunities, and the clear\\-eyed read on which events earned their budget and which ones did not. You will also run Findigs' webinar program, build community relationships with property managers and industry operators, and partner with the Sales team to make sure field marketing is one of the most productive pipeline sources in the company.\n\n\n\nThe best field marketers we have seen treat every event like a mini GTM campaign with a defined ICP, a before\\-during\\-after playbook, and a pipeline number attached.\n\n\n\n### **Where you will make an impact:**\n\n\n**Events and Conference Management**\n\n\n* Own Findigs' full event calendar: research, evaluate, and select 10 to 20 events per year based on ICP fit, pipeline potential, and cost efficiency.\n* Manage all end\\-to\\-end logistics: vendor negotiation, sponsorship agreements, booth design, staffing, travel, and on\\-site execution.\n* Build a standardized GTM activation model for each event: target account list, pre\\-event SDR and AE outreach, on\\-site engagement strategy, and a post\\-event follow\\-up playbook that moves conversations into pipeline within 5 business days.\n* Run a post\\-event pipeline review with Sales after every major event and make clear invest, adjust, or cut decisions based on actual ROI.\n* Use AI tools to accelerate event research, build outreach sequences, generate follow\\-up content, and reduce manual coordination overhead.\n\n**Owned Events and Findigs Experiences**\n\n\n* Produce Findigs\\-owned events: executive roundtables, customer dinners, property manager meetups, and invite\\-only experiences that build deep relationships and create pipeline that conferences cannot.\n* Own all production logistics from concept to debrief: venue, catering, AV, run of show, and guest experience.\n* Partner with the Senior PMM to ensure owned events are a genuine brand and thought leadership moment, not just a social gathering.\n\n**Webinars and Virtual Events**\n\n\n* Own and run Findigs' webinar program: topic selection, speaker sourcing, promotion, production, and post\\-event lead follow\\-up.\n* Design webinars that are genuinely useful to property managers, not marketing pitches, with the goal of becoming a trusted industry resource.\n* Build a repeatable production process and track performance against pipeline influence, lead quality, and audience growth.\n\n**Community and Relationship Building**\n\n\n* Identify and invest in the communities, associations, and industry groups where Findigs' buyers spend time.\n* Build Findigs' presence in these communities through content, programming, and authentic relationship\\-building, not just event appearances.\n* Develop and maintain a network of industry contacts, partners, and customer advocates who can amplify Findigs' presence and open doors to new opportunities.\n\n**Sales Enablement and Field Content**\n\n\n* Create and maintain event\\-specific sales enablement materials: leave\\-behinds, one\\-pagers, demo scripts, and conversation guides tailored to each audience.\n* Partner with SDRs on pre\\-event outreach sequences and post\\-event follow\\-up cadences informed by the specific event context.\n* Ensure Sales and SDR teams are fully briefed before every event and feed field marketing learnings back into the broader marketing function.\n\n**Budget and Performance Reporting**\n\n\n* Co\\-manage the field marketing budget with the VP of Marketing, with direct accountability for spend efficiency and event\\-level ROI.\n* Build a simple event ROI tracking system that ties spend to pipeline and present a clear read to leadership after each major event.\n* Evaluate the full event portfolio quarterly and recommend budget reallocation based on pipeline\\-to\\-cost ratio.\n### **We'd love to hear from you if you have:**\n\n\n* 4\\+ years of field marketing or event marketing experience in a B2B SaaS environment, with direct accountability for pipeline generated from events, not just events executed.\n* A proven track record of running 10 or more events per year end to end, including trade shows, owned experiences, and virtual events, with measurable business outcomes attached to each.\n* Strong experience working directly with Sales and SDR teams to build pre\\-event and post\\-event activation programs that convert event presence into pipeline.\n* Demonstrated ability to manage a field marketing budget, negotiate with vendors, and make clear ROI\\-based decisions about where to invest and where to cut.\n* Excellent project management skills: you can run multiple events simultaneously without dropping balls, and you have the systems and habits to prove it.\n* Strong written and verbal communication skills: you can write a compelling event brief, a crisp follow\\-up email, and a clear post\\-event pipeline report.\n* Proficiency with HubSpot and Salesforce for lead capture, follow\\-up tracking, and pipeline reporting.\n* Genuine energy for relationship building: you enjoy being at events, talking to customers and prospects, and building Findigs' presence in a room.\n### **Nice\\-to\\-haves:**\n\n\n* Experience in PropTech, real estate, multifamily housing, or adjacent industries. Familiarity with the conferences, associations, and community networks where property managers and enterprise operators spend time is a meaningful advantage.\n* Experience producing owned events: executive dinners, customer roundtables, or branded industry experiences.\n* Experience with event management platforms such as Splash, Bizzabo, or Goldcast.\n* Experience building and managing a webinar program as a standalone channel with tracked pipeline contribution.\n* Background in a high\\-growth startup where you had to build field marketing infrastructure from scratch.\n### **How we work: AI at Findigs**\n\n\n\nThe Marketing team at Findigs is committed to the highest standards of AI\\-augmented work. We are building a lean team that operates with the output of a much larger one, and AI is central to how we do that. For field marketing, this means using AI to do the research, drafting, and coordination work that traditionally consumed most of a field marketer's week, so that your time is spent on the relationships and judgment calls that actually require a human.\n\n\n**What we expect:**\n\n\n* Hands\\-on experience using AI tools professionally (Claude, ChatGPT, Perplexity, or similar) for event research, outreach drafting, follow\\-up content creation, and attendee targeting.\n* Curiosity about and ideally direct experience with agentic tools such as Claude Code or Cursor for building lightweight automations: event briefing generators, follow\\-up sequence builders, or event ROI trackers.\n* A learner's mindset: you follow what is changing in AI tooling, you experiment on your own, and you bring what you learn back to the team. Continuous AI learning is a professional expectation here, not a hobby.\n### **What we offer:**\n\n\n* **Location:** We operate on a hybrid schedule (3 to 4 days in\\-office per week), with in\\-office days at our newly renovated NoHo office.\n* **Mission\\-Driven Culture:** A collaborative, high\\-impact workplace where we challenge each other to grow, innovate, and drive meaningful change.\n* **Competitive Compensation:** Competitive base salary, performance\\-based bonus tied to pipeline and revenue outcomes, and Pre\\-IPO equity. This role is built for someone who wants their compensation to reflect the impact they drive.\n* **Generous Time Off:** We trust our team to manage their own time and workload. That's why we offer an Unlimited Paid Time Off (PTO) policy, allowing you to take the time you need to rest and recharge. We also observe all\\-company holidays.\n* **Wellness Perks:** Health benefits, 401(k) matching up to 4%, monthly gym stipend, and lunch provided every day.\nThe range listed includes a competitive base salary and a performance\\-based bonus. Compensation disclosure as required by NYC Pay Transparency Law. Actual compensation packages are based on a wide array of factors unique to each candidate, including but not limited to skill set, years and depth of experience, and the scope of responsibilities in the role. In addition to cash compensation, all full time employees receive an equity compensation package.\n\n*Compensation disclosure as required by NYC Pay Transparency Law.*\n**Interviewing with Us**\n\nWe're committed to making our interview process as effective and candidate\\-friendly as possible. We use a tool called Brighthire.ai to record our interviews so that our interviewers can focus entirely on the conversation and not get distracted by taking notes. Please note, if you move forward with the interview process, you'll always have the option to opt out of the recording.\n\nWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.  \n\n\n\n*We are an equal opportunity employer and as such all applicants will be considered based solely upon merit and directly relevant professional competencies.*\n\nWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.",
-      "description_snippet": "### **Who we are**\n\n\n\nFindigs is on a mission to make renting work for all of us. Renting is one of life's most critical experiences, yet the process is often slow, opaque, and unfair. We're changing that by building the first end\\-to\\-end platform that turns complex screening into a seamless, high\\-trust experience for both property managers and renters.\n\n\n\nWe're growing fast, fueled by $78M in funding from the investors behind companies like Affirm, Gusto, and Uber. With a data\\-backed product",
-      "tools": [
-        {
-          "tool_name": "Claude",
-          "tool_category": "AI_llm_providers",
-          "tool_id": "claude"
-        },
-        {
-          "tool_name": "Salesforce",
-          "tool_category": "CRM_Enterprise",
-          "tool_id": "salesforce"
-        },
-        {
-          "tool_name": "Hubspot",
-          "tool_category": "CRM_MidMarket",
-          "tool_id": "hubspot"
-        }
-      ],
-      "signals": [
-        {
-          "signal_type": "segment",
-          "signal_id": "enterprise",
-          "signal_value": "Enterprise"
-        },
-        {
-          "signal_type": "motion",
-          "signal_id": "channel",
-          "signal_value": "Channel"
-        },
-        {
-          "signal_type": "deal_size",
-          "signal_id": "seven_figure",
-          "signal_value": "Seven Figure"
-        },
-        {
-          "signal_type": "team_structure",
-          "signal_id": "build_team",
-          "signal_value": "Build Team"
-        },
-        {
-          "signal_type": "hiring_signals",
-          "signal_id": "growth_hire",
-          "signal_value": "Growth Hire"
-        },
-        {
-          "signal_type": "comp_signals",
-          "signal_id": "equity",
-          "signal_value": "Equity"
-        }
-      ],
-      "data_quality_score": 100,
-      "has_salary": true,
-      "has_description": true
-    },
-    {
-      "job_id": "indeed-https://www.",
       "title": "Regional Marketing Manager",
       "company": "Commusoft",
       "location": "Chicago, IL, US",
@@ -12599,170 +12406,6 @@
     },
     {
       "job_id": "indeed-https://www.",
-      "title": "ABM/Growth Marketing Manager",
-      "company": "YOOBIC",
-      "location": "Remote, US",
-      "location_type": "remote",
-      "is_remote": true,
-      "min_amount": 135000,
-      "max_amount": 145000,
-      "seniority": "Mid",
-      "function_category": "marketing",
-      "date_posted": "2026-04-01",
-      "date_scraped": "2026-04-04",
-      "source": "indeed",
-      "source_url": "https://www.indeed.com/viewjob?jk=670277fb10256e20",
-      "description": "**YOOBIC** is the leading AI powered frontline employee experience platform. While most tech companies build for desk based teams, we build the operating system for the deskless workforce. The 80 percent of global employees who power retail and hospitality.\n\n  \n\nOur mobile first platform helps frontline teams communicate, learn, and execute better every day. By combining operational data, Predictive Analytics, and AI, we help the world’s biggest brands turn frontline execution into a competitive advantage.\n\n  \n\nTrusted by 300 plus global brands including Michaels, Mattress Firm and National Vision. YOOBIC is scaling fast. Backed by a 50 million dollar Series C and investors including Highland Europe, Felix Capital, and Insight Partners, we are building the future of frontline work.\n\n **What we are looking for.**  \n\n  \n\nWe’re looking for an **ABM leader** with a GTM engineer mindset to join our marketing team — someone who deeply understands the ABM motion in B2B SaaS and has a proven track record of building programs that generate enterprise pipeline.\n\n\nThis is a true strategist \\+ operator role. You will set the ABM and pipeline strategy, and lead a significant portion of the execution yourself. You won’t operate alone: you’ll partner closely with Content, Events, Product Marketing, and the broader marketing team. But you should be comfortable rolling up your sleeves, building workflows, launching campaigns, and optimizing programs hands\\-on.\n\n\nYou’re excited by all the “cool new kids” in marketing tech and comfortable jumping into the tools to build, test, and improve. You combine ABM expertise with systems thinking, technical curiosity, and strong pipeline accountability.\n\n\nWe sell to some of the most exciting brands in global retail across fashion, luxury, grocery, specialty, C\\-store, and QSR. Our buyers are retail operations, innovation, and communications leaders. They are not typical tech buyers, which makes the engagement motion dynamic and nuanced.\n\n\nYou’ll operate at the intersection of Marketing, Sales, and RevOps, designing how signal turns into engagement, engagement into meetings, and meetings into pipeline. You are part strategist, part builder, with a strong appreciation for long sales cycles and complex buying committees.\n\n **What You’ll Own**\n\n* Global ABM Strategy \\& Execution\n* Design and scale 1:1, 1:few, and 1:many ABM programs globally\n* Execute multi\\-channel plays across digital, outbound, website personalization, paid media, events, and sales sequences\n* Define ICP segmentation and tiering using firmographic, technographic, behavioral, and intent data\n* Build persona\\-based messaging across buying committees\n* Align closely with Sales on account plans, engagement strategy, and pipeline targets\n* You’ll set the strategy and personally drive key programs forward in partnership with Content, Events, and Product Marketing.\n\n **GTM Systems \\& Marketing Technology Orchestration**\n\n* As an ABM leader with a GTM engineer mindset, you think in systems and enjoy building them.\n* Design workflows across Claude and tools like Seam.ai, HubSpot, Influ2, Salesforce, and intent platforms\n* Build trigger\\-based programs (intent surges, job changes, buying committee engagement)\n* Work with our Rev Ops team to develop routing logic and alert systems for BDRs and AEs\n* Partner with RevOps on scoring, enrichment, and automation\n* Build dashboards tracking engagement\\-to\\-pipeline conversion\n* Continuously test and adopt emerging GTM tools\n* You don’t just use tools — you understand how they connect to drive revenue.\n\n**You will own US pipeline creation.**\n\n* Set and manage quarterly and monthly pipeline targets\n* Align outbound with ABM campaigns and intent signals\n* Lead pipeline reviews and address engagement gaps\n* Ensure marketing insights translate into sales conversations\n* You understand how outbound fits into an integrated ABM ecosystem and how to empower BDRs with the right data and context.\n\n **What We’re Looking For**  \n\n  \n\n**Experience:**\n\n* 5–7\\+ years in B2B SaaS marketing\n* 3\\+ years building and executing enterprise ABM programs\n* Proven success generating qualified pipeline through ABM\n* Strong hands\\-on experience with ABM platforms (6sense, Demandbase, UserGems), and other GTM tools \\- HubSpot, Salesforce, Gong, Clay\n\n **Profile:**\n\n* ABM leader with a GTM engineer mindset\n* Comfortable owning strategy and executing hands\\-on\n* Experience selling into global markets\n* Deep understanding of ABM in B2B SaaS sales environments\n* Highly technical and curious about emerging GTM tools\n* Comfortable building workflows between Claude and tools like Salesloft, UserGems, HubSpot,Salesforce, and enrichment tools\n* Data\\-driven and focused on engagement\\-to\\-pipeline performance\n* Strong cross\\-functional collaborator across Marketing, Sales, and RevOps\n* Confident people manager with a builder, test\\-and\\-learn mentality\n* Comfortable in a fast\\-paced entrepreneurial environment\n\n **What We Offer:**\n\n* Hybrid working if based in NY (3 days a week in the office Monday, Tuesday and Thursday with lunch provided on Monday \\& Thursday\n* Remote if based outside of NY\n* 20 days PTO \\+ 8 public holidays (plus 3 floating holidays to choose from)\n* Medical cover and EAP (Employee Assistance Program)\n* Company covered Life insurance coverage\n* Company covered long term disability coverage\n* An amazing 401k contribution \\- We contribute even if you don’t!\n* ADP discounts for a whole host of items (including electronics, Childcare, travel, etc…)\n* Free online HIIT sessions \\+ gym discounts  \n\n  \n\nThe base salary range for this position is $135,000–$145,000 per year. This represents our good faith estimate of the compensation at the time of posting. Final compensation will be determined based on experience, skills, and location.  \n\n  \n\nWe are an equal opportunity employer that values diversity and inclusion. We are committed to equal employment opportunities and we want to ensure that our recruitment process is accessible to everyone. If you have a disability or additional need that requires reasonable accommodations during the process please do not hesitate to let us know. All applicants will be considered for employment without attention to race, colour, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.",
-      "description_snippet": "**YOOBIC** is the leading AI powered frontline employee experience platform. While most tech companies build for desk based teams, we build the operating system for the deskless workforce. The 80 percent of global employees who power retail and hospitality.\n\n  \n\nOur mobile first platform helps frontline teams communicate, learn, and execute better every day. By combining operational data, Predictive Analytics, and AI, we help the world’s biggest brands turn frontline execution into a competitive",
-      "tools": [
-        {
-          "tool_name": "Claude",
-          "tool_category": "AI_llm_providers",
-          "tool_id": "claude"
-        },
-        {
-          "tool_name": "Salesforce",
-          "tool_category": "CRM_Enterprise",
-          "tool_id": "salesforce"
-        },
-        {
-          "tool_name": "Hubspot",
-          "tool_category": "CRM_MidMarket",
-          "tool_id": "hubspot"
-        },
-        {
-          "tool_name": "Salesloft",
-          "tool_category": "Sales_Engagement_Enterprise",
-          "tool_id": "salesloft"
-        },
-        {
-          "tool_name": "Gong",
-          "tool_category": "Revenue_Intelligence",
-          "tool_id": "gong"
-        },
-        {
-          "tool_name": "Clay",
-          "tool_category": "Data_Enrichment",
-          "tool_id": "clay"
-        },
-        {
-          "tool_name": "6Sense",
-          "tool_category": "ABM_Platforms",
-          "tool_id": "6sense"
-        },
-        {
-          "tool_name": "Demandbase",
-          "tool_category": "ABM_Platforms",
-          "tool_id": "demandbase"
-        },
-        {
-          "tool_name": "Influ2",
-          "tool_category": "ABM_Advertising",
-          "tool_id": "influ2"
-        },
-        {
-          "tool_name": "Usergems",
-          "tool_category": "ABM_Signals",
-          "tool_id": "usergems"
-        }
-      ],
-      "signals": [
-        {
-          "signal_type": "segment",
-          "signal_id": "enterprise",
-          "signal_value": "Enterprise"
-        },
-        {
-          "signal_type": "motion",
-          "signal_id": "channel",
-          "signal_value": "Channel"
-        },
-        {
-          "signal_type": "motion",
-          "signal_id": "abm",
-          "signal_value": "Abm"
-        },
-        {
-          "signal_type": "deal_size",
-          "signal_id": "seven_figure",
-          "signal_value": "Seven Figure"
-        },
-        {
-          "signal_type": "geo_focus",
-          "signal_id": "emea",
-          "signal_value": "Emea"
-        },
-        {
-          "signal_type": "geo_focus",
-          "signal_id": "global",
-          "signal_value": "Global"
-        },
-        {
-          "signal_type": "team_structure",
-          "signal_id": "build_team",
-          "signal_value": "Build Team"
-        },
-        {
-          "signal_type": "hiring_signals",
-          "signal_id": "growth_hire",
-          "signal_value": "Growth Hire"
-        }
-      ],
-      "data_quality_score": 100,
-      "has_salary": true,
-      "has_description": true
-    },
-    {
-      "job_id": "indeed-https://www.",
-      "title": "Events & Field Marketing Manager",
-      "company": "Distyl AI",
-      "location": "New York, NY, US",
-      "location_type": "onsite",
-      "is_remote": false,
-      "min_amount": 130000,
-      "max_amount": 180000,
-      "seniority": "Mid",
-      "function_category": "marketing",
-      "date_posted": "2026-04-01",
-      "date_scraped": "2026-04-04",
-      "source": "indeed",
-      "source_url": "https://www.indeed.com/viewjob?jk=c93e5f6baffe2d41",
-      "description": "**About Distyl AI**\n===================\n\nDistyl is an applied AI technology company partnering with the world’s most ambitious institutions to rearchitect critical operations for the frontier of AI. Our customers include the largest companies in telecom, healthcare, insurance, manufacturing, consumer goods, and global social organizations.  \n\n  \n\nWe research and deploy technologies that power AI\\-native operations — both for our partners and for Distyl itself. Our work spans research into self\\-constructing systems, the development of the most reliable execution of AI systems, and products that transform mission\\-critical workflows. As a result, Distyl's technologies affect some of the world's largest operations — from hundreds of millions of consumer interactions to tens of millions of supply chain transactions and millions of patient journeys.  \n\n  \n\nDistyl is backed by leading investors including Lightspeed Venture Partners, Khosla Ventures, Coatue, DST Global, and the board\\-members of 20\\+ F500s. The results reflect this approach: a 100% production deployment success rate for our customers and one of the few enterprise AI companies to run a profitable business.\n\n**What We Are Looking For**\n===========================\n\n\nAs Events \\& Field Marketing Manager, you will own how Distyl shows up at intimate executive dinners, technical meetups, and Distyl\\-hosted events — and support the broader team on large\\-scale conference presence and strategic market visibility.\n\n\nThis is an execution role with real ownership. You'll manage events end\\-to\\-end, keep every detail on track, and make sure every event we touch runs flawlessly. You're eager to learn Distyl's technology and positioning deeply, and able to represent it accurately in the field. You thrive in early\\-stage environments where you're building the playbook, not running an established one.\n\n**Key Responsibilities**\n\n* Plan and host executive dinners, roundtables, and founder dinners with qualified prospects in target verticals\n* Organize and run Distyl\\-hosted events: hackathons, customer summits, technical meetups, and community gatherings\n* Manage the full lifecycle of every owned event: invitation strategy, guest curation, logistics, and follow\\-up sequences\n* Build repeatable playbooks for each event type that can scale across verticals and geographies\n* Support large\\-scale conference presence and sponsorships — coordinating logistics and on\\-the\\-ground execution as directed\n* Attend industry events and conferences as a Distyl representative, building relationships in the field\n* Support the coordination of CEO and founder speaking opportunities, preparation, and on\\-site logistics\n* Help identify the right stages and rooms that maximize founder visibility with enterprise buyers\n* Support the development of relationships with analysts, journalists, and influencers in the enterprise AI space\n* Coordinate press opportunities and liaise with PR resources as needed\n* Create social content tied to events that drives engagement with enterprise buyers — not vanity metrics\n* Track event performance and surface data and insights to leadership\n* Execute on event strategy set by leadership in coordination with PMM\n* Adapt event logistics and formats across verticals as Distyl expands\n\n**Who You Are**\n===============\n\n* 3–7 years of experience in field marketing, event management, or a hybrid role in enterprise software\n* Proven track record planning and executing both intimate executive events and larger conference presence\n* Experience with enterprise audiences — understands long sales cycles and how to engage C\\-suite buyers\n* Eager to learn Distyl's technology and positioning deeply, and able to represent it accurately in the field\n* A strong executor — you sweat the details, nothing falls through the cracks, and events run smoothly because of you\n* Experienced across the event spectrum: from intimate executive dinners to large conference logistics\n* Comfortable attending and representing Distyl at events independently when needed\n* Organized and able to manage multiple event workstreams simultaneously without dropping balls\n* Scrappy and resourceful — you can pull off a great event without a big budget or a large team\n* Comfortable adapting your approach across different industries and buyer personas\n* Collaborative and able to take direction while owning your workstreams fully\n* Comfortable with 20–30% travel for events, conferences, and executive dinners\n* Experience across multiple verticals (financial services, insurance, healthcare); early\\-stage startup experience; existing analyst or press relationships in the enterprise AI space is a plus\n\n**What We Offer**\n=================\n\n* The base salary range for this role is $130K – $180K, depending on experience, location, and level. In addition to base compensation, meaningful equity, along with a comprehensive benefits package\n* 100% covered medical, dental, and vision for employees and dependents\n* 401(k) with additional perks (e.g., commuter benefits, in‑office lunch)\n* Access to state‑of‑the‑art models, generous usage of modern AI tools, and real‑world business problems\n* Ownership of high‑impact projects across top enterprises\n* A mission‑driven, fast‑moving culture that prizes curiosity, pragmatism, and excellence\n\n\nDistyl has offices in San Francisco and New York. This role follows a hybrid collaboration model with 3\\+ days per week (Tuesday–Thursday) in‑office.",
-      "description_snippet": "**About Distyl AI**\n===================\n\nDistyl is an applied AI technology company partnering with the world’s most ambitious institutions to rearchitect critical operations for the frontier of AI. Our customers include the largest companies in telecom, healthcare, insurance, manufacturing, consumer goods, and global social organizations.  \n\n  \n\nWe research and deploy technologies that power AI\\-native operations — both for our partners and for Distyl itself. Our work spans research into self\\-",
-      "tools": [],
-      "signals": [
-        {
-          "signal_type": "segment",
-          "signal_id": "enterprise",
-          "signal_value": "Enterprise"
-        },
-        {
-          "signal_type": "segment",
-          "signal_id": "fortune_500",
-          "signal_value": "Fortune 500"
-        },
-        {
-          "signal_type": "geo_focus",
-          "signal_id": "global",
-          "signal_value": "Global"
-        },
-        {
-          "signal_type": "hiring_signals",
-          "signal_id": "turnaround",
-          "signal_value": "Turnaround"
-        },
-        {
-          "signal_type": "comp_signals",
-          "signal_id": "equity",
-          "signal_value": "Equity"
-        }
-      ],
-      "data_quality_score": 100,
-      "has_salary": true,
-      "has_description": true
-    },
-    {
-      "job_id": "indeed-https://www.",
       "title": "Lead Generation Campaign Manager",
       "company": "Newsweek",
       "location": "New York, NY, US",
@@ -12815,50 +12458,6 @@
           "signal_type": "team_structure",
           "signal_id": "reports_cro",
           "signal_value": "Reports Cro"
-        },
-        {
-          "signal_type": "hiring_signals",
-          "signal_id": "growth_hire",
-          "signal_value": "Growth Hire"
-        },
-        {
-          "signal_type": "comp_signals",
-          "signal_id": "equity",
-          "signal_value": "Equity"
-        }
-      ],
-      "data_quality_score": 100,
-      "has_salary": true,
-      "has_description": true
-    },
-    {
-      "job_id": "indeed-https://www.",
-      "title": "Field Marketing Analyst",
-      "company": "Aramark",
-      "location": "New York, NY, US",
-      "location_type": "onsite",
-      "is_remote": false,
-      "min_amount": 70000,
-      "max_amount": 85000,
-      "seniority": "Entry",
-      "function_category": "marketing",
-      "date_posted": "2026-03-31",
-      "date_scraped": "2026-04-04",
-      "source": "indeed",
-      "source_url": "https://www.indeed.com/viewjob?jk=71a8313985839a18",
-      "description": "**Job Description**\n-------------------\n\n*LifeWorks Restaurant Group, an independently operated division of Aramark, designs custom solutions for clients looking to take amenities to the next level. Our team of forward\\-thinkers look at each opportunity as an experience?not a requirement?and deliver out\\-of\\-this world, truly sensory experiences, feeding company culture. From the beginning of each client relationship, the team at LifeWorks Restaurant Group establishes a transparency with its partners, from space design and delivery to marketing of the final, branded product. Learn more by visiting* *lifeworksrestaurantgroup.com*\n\n  \n\n\n\nThe Marketing Specialist is a creative, organized, and detail\\-oriented individual who has a passion for marketing in the food, beverage and hospitality industry. This role is responsible for executing marketing strategies to promote awareness, increase guest satisfaction, and drive profitable growth in all amenity spaces. Overall responsibilities include developing content to drive customer awareness and engagement, working with the operations and culinary teams.\n\n  \n\nThis individual will have the ability to think both creatively and strategically, while executing innovative, exciting, experience\\-driven solutions which continue to improve our premier program. Experience in design in Canva or other programs is necessary. Ability to communicate and work cross\\-functionally with a variety of teams, both internal and external is paramount to the success of this role.\n\n  \n\nAbility to develop a strong communication plan using a multi\\-channel approach: web site, social channels, email campaigns, menu boards, internal client communication channels, etc. is required. This role is responsible for executing and measuring the success of the marketing programs based on established KPIs.\n\n**Compensation Data**\n---------------------\n\n\nThe salary range for this position is $70,000\\.00 to $85,000\\.00\\. If both numbers are the same, that is the amount that Aramark expects to offer. This is Aramark?s good faith and reasonable estimate of the compensation for this position as of the time of posting.?\n\n\n?  \n\n?\n\n**BENEFITS:** Aramark offers comprehensive benefit programs and services for eligible employees including medical, dental, vision, and work/life resources. Additional benefits may include retirement savings plans like 401(k) and paid days off such as parental leave and disability coverage. Benefits vary by location and are subject to any legal requirements or limitations, employee eligibility status, and where the employee lives and/or works. For more information about Aramark benefits, click here Aramark Careers \\- Benefits \\& Compensation. ?\n\n\n?  \n\n?\n\n\nThere is no predetermined application window for this position, the position will close once a qualified candidate is selected. Qualified applicants with arrest or conviction records will be considered for employment in accordance with applicable law, including, but not limited to, the Los Angeles County Fair Chance Ordinance for Employers, the California Fair Chance Act, and the San Francisco Fair Chance Ordinance to the extent that those laws apply to the opportunity.\n\n**Job Responsibilities**\n------------------------\n\n* Responsible for driving profitable growth through a comprehensive marketing strategy and plan including activation and communication plan.\n* Ability to create marketing materials via Canva or other design software is required.\n* Responsible for working with operators and front\\-line managers to develop signage and marketing collateral\n* Develops marketing implementation plans and works with Operations and Culinary Team to activate and measure success.\n* Leads the development and implementation of signage, smallwares, and merchandising.\n* Meet regularly with leadership team to present new ideas and plans that deliver on client\\-driven project goals.\n* Responsible for managing and maintaining respective updates for online café websites.\n* Provide continuous support with product and program innovation, including participating in marketing presentations.\n* Protect the integrity of the client brand and proprietary information.\n* Builds relationship with clients, organization department heads and subgroups/community groups.\n* Coordinate special events, promotions, marketing collateral, and engagement activations\n* Works with the Operations, Culinary and Corporate Marketing Teams to develop Marketing Growth and Customer Engagement Plans and gathers metrics and ensure the right solutions and systems are in place.\n* Works collaboratively with Marketing and Brand Leaders to ensure development of the right programs and content.\n**Qualifications**\n------------------\n\n* Bachelor?s Degree preferably in marketing, digital comm, hospitality, or other related field from an accredited university.\n* A minimum of 3 years of marketing experience plus program development and execution.\n* Demonstrated success planning, implementing, and optimizing communications and marketing campaigns.\n* Strong storytelling skills, conveying the vision and impact of marketing and menu promotions and programs.\n* Expertise in digital platforms and customer journey plans\n* This role is required to be in\\-office 5 days per week, and may involve 10% travel as business needs arise.\n**Education**\n-------------\n\n**About Aramark**\n-----------------\n\n**Our Mission**\n\n\nRooted in service and united by our purpose, we strive to do great things for each other, our partners, our communities, and our planet.\n\n\nAt Aramark, we believe that every employee should enjoy equal employment opportunity and be free to participate in all aspects of the company. We do not discriminate on the basis of race, color, religion, national origin, age, sex, gender, pregnancy, disability, sexual orientation, gender identity, genetic information, military status, protected veteran status or other characteristics protected by applicable law.\n\n\n**About Aramark**\n\n\nThe people of Aramark proudly serve millions of guests every day through food and facilities in 15 countries around the world. Rooted in service and united by our purpose, we strive to do great things for each other, our partners, our communities, and our planet. We believe a career should develop your talents, fuel your passions, and empower your professional growth. So, no matter what you're pursuing \\- a new challenge, a sense of belonging, or just a great place to work \\- our focus is helping you reach your full potential. Learn more about working here at http://www.aramarkcareers.com or connect with us on Facebook, Instagram and Twitter.",
-      "description_snippet": "**Job Description**\n-------------------\n\n*LifeWorks Restaurant Group, an independently operated division of Aramark, designs custom solutions for clients looking to take amenities to the next level. Our team of forward\\-thinkers look at each opportunity as an experience?not a requirement?and deliver out\\-of\\-this world, truly sensory experiences, feeding company culture. From the beginning of each client relationship, the team at LifeWorks Restaurant Group establishes a transparency with its par",
-      "tools": [],
-      "signals": [
-        {
-          "signal_type": "motion",
-          "signal_id": "channel",
-          "signal_value": "Channel"
-        },
-        {
-          "signal_type": "team_structure",
-          "signal_id": "build_team",
-          "signal_value": "Build Team"
         },
         {
           "signal_type": "hiring_signals",
