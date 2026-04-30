@@ -1,199 +1,181 @@
 {
-  "generated_at": "2026-04-04T16:06:39.195466",
-  "total_records": 342,
-  "records_with_salary": 225,
-  "disclosure_rate": 65.8,
+  "generated_at": "2026-04-30T03:13:54.621576",
+  "total_records": 264,
+  "records_with_salary": 163,
+  "disclosure_rate": 61.7,
   "salary_stats": {
-    "min": 20000,
-    "max": 864000,
-    "median": 100000,
-    "avg": 101227,
-    "count_with_salary": 225
+    "min": 24960,
+    "max": 554000,
+    "median": 106400,
+    "avg": 114372,
+    "count_with_salary": 163
   },
   "by_seniority": {
+    "Head of": {
+      "count": 5,
+      "min_base_avg": 179075,
+      "max_base_avg": 244086,
+      "median": 180000
+    },
     "Mid": {
-      "count": 75,
-      "min_base_avg": 94462,
-      "max_base_avg": 131962,
-      "median": 99000
-    },
-    "Unknown": {
-      "count": 52,
-      "min_base_avg": 109936,
-      "max_base_avg": 153317,
-      "median": 116960
-    },
-    "Senior": {
-      "count": 40,
-      "min_base_avg": 125819,
-      "max_base_avg": 170347,
-      "median": 125000
-    },
-    "VP": {
-      "count": 6,
-      "min_base_avg": 133190,
-      "max_base_avg": 220176,
-      "median": 125000
+      "count": 58,
+      "min_base_avg": 93205,
+      "max_base_avg": 123196,
+      "median": 86625
     },
     "Entry": {
-      "count": 42,
-      "min_base_avg": 60490,
-      "max_base_avg": 106263,
-      "median": 56000
+      "count": 22,
+      "min_base_avg": 82902,
+      "max_base_avg": 108412,
+      "median": 70000
+    },
+    "Unknown": {
+      "count": 31,
+      "min_base_avg": 119756,
+      "max_base_avg": 170920,
+      "median": 122000
+    },
+    "Senior": {
+      "count": 26,
+      "min_base_avg": 124324,
+      "max_base_avg": 177211,
+      "median": 116400
     },
     "Director": {
-      "count": 8,
-      "min_base_avg": 160112,
-      "max_base_avg": 226862,
-      "median": 175000
+      "count": 19,
+      "min_base_avg": 153616,
+      "max_base_avg": 196793,
+      "median": 160000
     }
   },
   "by_metro": {
-    "Unknown": {
-      "count": 115,
-      "min_base_avg": 95836,
-      "max_base_avg": 139604,
-      "median": 95000
-    },
-    "Chicago": {
-      "count": 3,
-      "min_base_avg": 123733,
-      "max_base_avg": 150320,
-      "median": 125000
-    },
     "New York": {
-      "count": 36,
-      "min_base_avg": 113445,
-      "max_base_avg": 154583,
-      "median": 118200
+      "count": 43,
+      "min_base_avg": 115199,
+      "max_base_avg": 147817,
+      "median": 108531
     },
-    "Denver": {
-      "count": 6,
-      "min_base_avg": 92109,
-      "max_base_avg": 135006,
-      "median": 90000
-    },
-    "San Francisco": {
-      "count": 15,
-      "min_base_avg": 114722,
-      "max_base_avg": 160073,
-      "median": 116000
-    },
-    "Austin": {
-      "count": 3,
-      "min_base_avg": 78016,
-      "max_base_avg": 125778,
-      "median": 80600
+    "Unknown": {
+      "count": 78,
+      "min_base_avg": 105222,
+      "max_base_avg": 145587,
+      "median": 100000
     },
     "Los Angeles": {
-      "count": 22,
-      "min_base_avg": 90090,
-      "max_base_avg": 134709,
-      "median": 85000
+      "count": 12,
+      "min_base_avg": 89090,
+      "max_base_avg": 128888,
+      "median": 83900
     },
-    "Seattle": {
-      "count": 14,
-      "min_base_avg": 118967,
-      "max_base_avg": 175317,
+    "San Francisco": {
+      "count": 12,
+      "min_base_avg": 188071,
+      "max_base_avg": 239552,
+      "median": 170000
+    },
+    "Chicago": {
+      "count": 6,
+      "min_base_avg": 130758,
+      "max_base_avg": 160761,
       "median": 118200
-    },
-    "Boston": {
-      "count": 3,
-      "min_base_avg": 99666,
-      "max_base_avg": 131333,
-      "median": 99000
     },
     "Washington DC": {
-      "count": 7,
-      "min_base_avg": 110828,
-      "max_base_avg": 162328,
-      "median": 118200
+      "count": 3,
+      "min_base_avg": 124066,
+      "max_base_avg": 192775,
+      "median": 125400
+    },
+    "Boston": {
+      "count": 4,
+      "min_base_avg": 115250,
+      "max_base_avg": 155520,
+      "median": 129000
     }
   },
   "by_remote": {
     "onsite": {
-      "count": 193,
-      "min_base_avg": 99608,
-      "max_base_avg": 144751,
-      "median": 100000
+      "count": 142,
+      "min_base_avg": 116576,
+      "max_base_avg": 158120,
+      "median": 110000
     },
     "remote": {
-      "count": 32,
-      "min_base_avg": 110992,
-      "max_base_avg": 149382,
-      "median": 110000
+      "count": 21,
+      "min_base_avg": 99470,
+      "max_base_avg": 129373,
+      "median": 85000
     }
   },
   "top_paying_roles": [
     {
-      "title": "Integrated Marketing Specialist",
-      "company": "Radio One",
-      "salary_min": 60000.0,
-      "salary_max": 864000.0,
-      "seniority": "Entry"
+      "title": "EVP, Global Field Marketing",
+      "company": "Salesforce",
+      "salary_min": 489000.0,
+      "salary_max": 554000.0,
+      "seniority": "EVP"
     },
     {
-      "title": "VP Integrated Marketing, Americas",
-      "company": "Genesys",
-      "salary_min": 217400.0,
-      "salary_max": 382200.0,
-      "seniority": "VP"
+      "title": "Sr. Director, Global Integrated Marketing (CX)",
+      "company": "3M",
+      "salary_min": 287281.0,
+      "salary_max": 351122.0,
+      "seniority": ""
     },
     {
-      "title": "Field Marketing Manager Top Rated Roofing Company",
-      "company": "Schoenherr Roofing",
-      "salary_min": 100000.0,
+      "title": "PPC Campaign Manager (Google & Bing Ads Specialist)",
+      "company": "FMCA Filings LLC",
+      "salary_min": 250000.0,
       "salary_max": 350000.0,
       "seniority": "Mid"
     },
     {
-      "title": "Field Marketing Director",
-      "company": "Calix",
-      "salary_min": 144000.0,
-      "salary_max": 294400.0,
-      "seniority": "Director"
+      "title": "Head of Integrated Campaigns",
+      "company": "Stripe",
+      "salary_min": 231200.0,
+      "salary_max": 346800.0,
+      "seniority": "Head of"
     },
     {
-      "title": "Director, Field Marketing Neurology & Oncology Referrers",
-      "company": "GE HealthCare",
-      "salary_min": 192000.0,
-      "salary_max": 288000.0,
-      "seniority": "Director"
-    },
-    {
-      "title": "Senior Manager, Field Marketing (Remote US)",
-      "company": "Yelp",
-      "salary_min": 188000.0,
-      "salary_max": 282000.0,
+      "title": "Senior Director, Field Marketing, Americas",
+      "company": "Genesys",
+      "salary_min": 182600.0,
+      "salary_max": 321000.0,
       "seniority": "Senior"
     },
     {
-      "title": "Demand Generation & ABM Lead, Emerging Mid-Market",
-      "company": "Intuit",
-      "salary_min": 203500.0,
-      "salary_max": 275500.0,
+      "title": "Field Marketing Manager, StartupsNew",
+      "company": "Anthropic",
+      "salary_min": 255000.0,
+      "salary_max": 320000.0,
       "seniority": ""
     },
     {
-      "title": "Senior Marketing Manager - Integrated Campaigns",
-      "company": "Apollo.io",
-      "salary_min": 183100.0,
-      "salary_max": 263200.0,
-      "seniority": "Senior"
+      "title": "Sr. Director, Integrated Marketing",
+      "company": "Procept BioRobotics",
+      "salary_min": 259360.0,
+      "salary_max": 305130.0,
+      "seniority": ""
     },
     {
-      "title": "Director, Field Marketing",
-      "company": "NTT DATA",
-      "salary_min": 197800.0,
-      "salary_max": 250000.0,
+      "title": "Director of Brand and Integrated Marketing",
+      "company": "Whatnot",
+      "salary_min": 240000.0,
+      "salary_max": 285000.0,
       "seniority": "Director"
     },
     {
-      "title": "Asset & Wealth Management, Marketing: Events Marketing, Associate / Vice President",
-      "company": "Goldman Sachs",
-      "salary_min": 125000.0,
-      "salary_max": 250000.0,
-      "seniority": "VP"
+      "title": "Director, DCP and Partner Marketing Programs",
+      "company": "Snowflake",
+      "salary_min": 213000.0,
+      "salary_max": 279300.0,
+      "seniority": "Director"
+    },
+    {
+      "title": "Director, FTP Field Marketing",
+      "company": "Takeda Pharmaceuticals",
+      "salary_min": 177000.0,
+      "salary_max": 278080.0,
+      "seniority": "Director"
     }
   ]
 }
